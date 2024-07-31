@@ -20,7 +20,6 @@ Repository containing the code for the paper *[Should We Fine-Tune or RAG? Evalu
     - [Human Evalution Protocol](#human-evalution-protocol)
   - [License](#license)
   - [How To Cite](#how-to-cite)
-  - [TODOs](#todos)
 
 
 ## Introduction
@@ -123,7 +122,7 @@ You can access the fine-tuned models and the results obtained by downloading the
 You can place the `*.tar.xz` in the `output` folder and unzip them using the following command:
 
 ```bash
-cat *.tar.xz | tar -xJvf - -i
+cat *.tar.gz | tar -xzvf - -i
 ```
 
 Each folder contains the results for both Llama-2 Chat and Mistral Instruct 7B. For each model, you have access to a set of files and folders containing the weights (`best_model`), the perplexity, the optimization results, and the responses generated using:
@@ -239,7 +238,9 @@ Please take a look at the jupyter notebooks available in the [stats](./stats/) f
 
 
 ### Human Evalution Protocol
-TODO... Add link
+We extended the Human Evalution Protocol proposed by Mousavi et al. (2022) in the paper *[Evaluation of Response Generation Models: Shouldn’t It Be Shareable and Replicable?](https://aclanthology.org/2022.gem-1.12/)*
+
+The extended version of the protocol (v1.1) is available [here](https://github.com/sislab-unitn/Human-Evaluation-Protocol/tree/v1.1).
 
 
 ## License
@@ -264,8 +265,3 @@ This work is licensed under a
   year={2024}
 }
 ```
-
-## TODOs
-
-- [ ] Add archives + results.json to the release
-- [ ] Add link to the human evaluation protocol
