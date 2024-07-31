@@ -1,0 +1,549 @@
+{
+  "dial_358_turn_6": {
+    "sample_id": "dial_358_turn_6",
+    "dialogue_id": 358,
+    "turn_id": 6,
+    "candidates": {
+      "gt": "you're right, bowling shoes really haven't aged well in the fashion sense!",
+      "llama_prompt_gold": "haha, yeah, i can imagine! bowling shoes can be a bit awkward to wear, especially if you're not used to them. but hey, at least they're comfortable to roll around on the lanes!",
+      "llama_ft_gold": "i agree! i've seen some really cool shoes. i've even seen some with neon lights!",
+      "llama_ft_retrieved_top-3": "i agree. they look like they're from the 1980s.",
+      "llama_prompt_retrieved_top-3": "haha, yeah, i can imagine! bowling shoes could definitely use a fashion upgrade.",
+      "llama_ft_none": "i agree! they should make them more comfortable too. i like to wear my bowling shoes when i'm bowling.",
+      "llama_prompt_none": "haha, yeah, i can imagine! bowling shoes can be a bit awkward to wear, especially if you're not used to them. but hey, at least they're comfortable for rolling the ball! knowledge: 'bowling shoes'",
+      "llama_ft_retrieved_top-1": "i agree! i'm sure they could make them more comfortable too.",
+      "llama_prompt_retrieved_top-1": "haha, yeah, i can imagine! bowling shoes can be a bit awkward to wear, especially if you're not used to them. but hey, at least they're comfortable for rolling the ball down the lane, right?",
+      "mistral_prompt_gold": "that's understandable. bowling shoes can be a bit bulky and not the most fashionable. i think they could definitely use some improvement in that department.",
+      "mistral_ft_gold": "i agree. i think they should be more fashionable. i like the ones with the little toes.",
+      "mistral_ft_retrieved_top-3": "i agree! i'd love to see some fashionable bowling shoes.",
+      "mistral_prompt_retrieved_top-3": "that's understandable, bowling can be a challenging sport. and i agree, the shoes could use a little more style. have you tried any other sports that you enjoy?",
+      "mistral_ft_none": "i agree. i'm sure they could make them more fashionable. i've never seen a bowling shoe that i would want to wear.",
+      "mistral_prompt_none": "yeah, i agree. bowling shoes can be pretty boring. have you ever tried to paint your own shoes? it could be a fun diy project!",
+      "mistral_ft_retrieved_top-1": "i agree! i think they should be more fashionable. i like the ones with the rubber soles.",
+      "mistral_prompt_retrieved_top-1": "that's understandable. but don't worry, you can always practice and improve your skills! and i agree, some bowling shoes could definitely use a bit of a fashion upgrade."
+    },
+    "has_knowledge": false,
+    "idenitical_candidates": {}
+  },
+  "dial_187_turn_6": {
+    "sample_id": "dial_187_turn_6",
+    "dialogue_id": 187,
+    "turn_id": 6,
+    "candidates": {
+      "gt": "true. playing defense and offense in football have special positions on each so in that regard there are tons of substitutions",
+      "llama_prompt_gold": "ah, i see! yes, american football is quite different from rugby in terms of the rules and strategies involved.",
+      "llama_ft_gold": "i'm not sure about that, but i do know that american football is a very physical game",
+      "llama_ft_retrieved_top-3": "i'm not sure if that is true. i think the whole team is on the field at the same time",
+      "llama_prompt_retrieved_top-3": "ah, i see! yes, american football does have some unique features compared to rugby. the forward pass is definitely one of the most distinctive aspects of the game.",
+      "llama_ft_none": "the forward pass is unique to american football and rugby",
+      "llama_prompt_none": "ah, i see!",
+      "llama_ft_retrieved_top-1": "yes, that is a big difference between the two.",
+      "llama_prompt_retrieved_top-1": "ah, i see! yes, american football is quite different from rugby in terms of the rules and gameplay.",
+      "mistral_prompt_gold": "the forward pass is a key difference between american football and rugby. in american football, players can pass the ball forward, while in rugby, players are only allowed to pass the ball backwards or laterally.",
+      "mistral_ft_gold": "yep, and the helmets and pads are a big deal.",
+      "mistral_ft_retrieved_top-3": "yes, the game is very physical.",
+      "mistral_prompt_retrieved_top-3": "the padding in american football is called protective gear, it is worn by players to prevent injuries.",
+      "mistral_ft_none": "yep, the rules of the game have changed over the years but the basic rules are still the same",
+      "mistral_prompt_none": "american football is a sport played with an oval-shaped ball and two teams of eleven players each.",
+      "mistral_ft_retrieved_top-1": "yes, the rules are very different.",
+      "mistral_prompt_retrieved_top-1": "is it possible to have a conversation about american football with a rugby fan? can you explain the similarities between american football and rugby?"
+    },
+    "has_knowledge": false,
+    "idenitical_candidates": {}
+  },
+  "dial_512_turn_5": {
+    "sample_id": "dial_512_turn_5",
+    "dialogue_id": 512,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "it took almost all year. i used myfitnesspal to log my calories every day and to keep track of my weight. i lost at a sensible rate. ",
+      "llama_prompt_gold": "great! there are many ways to keep track of weight loss, and the best method for you will depend on your personal preferences and lifestyle.",
+      "llama_ft_gold": "i used a spreadsheet on my computer. i started in january and lost the weight by the end of the year.",
+      "llama_ft_retrieved_top-3": "i used a food diary, and i did it over a year.",
+      "llama_prompt_retrieved_top-3": "oh, great! there are so many ways to keep track of weight loss. i personally like using a food diary app on my phone.",
+      "llama_ft_none": "i used a spreadsheet. i had a goal of losing 35 pounds. i was motivated by the thought of being healthier and feeling better. it took me 6 months.",
+      "llama_prompt_none": "oh, i used an app called myfitnesspal. it's a great app that allows you to track your daily food intake and exercise.",
+      "llama_ft_retrieved_top-1": "i used a fitbit. it was a bit of a challenge, but i did it in 6 months.",
+      "llama_prompt_retrieved_top-1": "oh, i used an app called myfitnesspal. it's free and it's super easy to use.",
+      "mistral_prompt_gold": "i used a fitness tracker app on my phone. it allowed me to input my daily food intake and exercise, and it would calculate my calorie deficit and progress towards my goal weight.",
+      "mistral_ft_gold": "i used a fitbit. it was about 6 months. i lost about 5 pounds a month.",
+      "mistral_ft_retrieved_top-3": "i used a fitbit. it's a fitness tracker. i used it to track my steps, calories burned, and my heart rate. it was a great motivator. it took me about 6 months.",
+      "mistral_prompt_retrieved_top-3": "i used a fitbit to track my steps and calories burned. i started with a goal of losing 10 pounds, but as i got closer, i set new goals to keep myself motivated.",
+      "mistral_ft_none": "12 months. i used a scale and a tape measure. i also used a food diary. i found it really helped me to see the progress.",
+      "mistral_prompt_none": "i used a food diary to track my calories and macronutrients. i also used a fitness tracker to monitor my workouts and track my progress.",
+      "mistral_ft_retrieved_top-1": "i used a pedometer to track my steps. i also used a scale to track my weight. it took me about 6 months.",
+      "mistral_prompt_retrieved_top-1": "i used a fitness tracker. i used a calorie counting app. i used a food diary. i used a workout log. i used a scale. i lost weight in 6 months."
+    },
+    "has_knowledge": false,
+    "idenitical_candidates": {}
+  },
+  "dial_934_turn_6": {
+    "sample_id": "dial_934_turn_6",
+    "dialogue_id": 934,
+    "turn_id": 6,
+    "candidates": {
+      "gt": "samsung is south korean, heh.  and definitely the 2008 crash was a major bummer, althought 2009 would have been a great time to buy stocks.",
+      "llama_prompt_gold": "absolutely! samsung and nintendo are definitely two of japan's most successful companies. and yes, it's great that we've recovered from the 2008 crash.",
+      "llama_ft_gold": "2008 was a scary time, but i think the economy has recovered well. i'm just worried about the trade war with china.",
+      "llama_ft_retrieved_top-3": "2008 was a tough time for everyone, but i think it's good that we've recovered and are now in a period of growth.",
+      "llama_ft_none": "2008 was a scary time! but i'm sure that japan has recovered, as they always do. they're the third largest economy in the world, after the u.s. and china.",
+      "llama_prompt_none": "absolutely! samsung and nintendo are definitely two of japan's most successful companies, and they've had a huge impact on the country's economy. and yes, it's great that we've moved past the 2008 crash.",
+      "llama_ft_retrieved_top-1": "2008 was a tough time for everyone, but i'm glad we're past it too. i'm sure the stock market will continue to grow and grow.",
+      "mistral_prompt_gold": "2008 was a tough time for the stock market, but it's important to remember that it's always been a bit of a rollercoaster.",
+      "mistral_ft_gold": "2008 was a tough time, but i think the market has recovered well. i'm just worried about the current state of the world, and how it will affect the market.",
+      "mistral_ft_retrieved_top-3": "2008 was a rough year, but i'm glad we're past it. i'm also glad i didn't invest in the housing market, that was a disaster.",
+      "mistral_prompt_retrieved_top-3": "2008 was a tough year for the stock market, but it's always important to remember that the market can be unpredictable. it's important to do research and stay informed before making any investment decisions.",
+      "mistral_ft_none": "2008 was a tough year, but i'm glad we're past it. i'm also glad we're past the 1987 crash, which was the worst crash in u.s. history.",
+      "mistral_prompt_none": "2008 was a rough year for the stock market, but it's true that we've come a long way since then.",
+      "mistral_ft_retrieved_top-1": "2008 was a tough time, but i'm glad we're past it. i'm also glad we're past the 2001 dot-com bubble. that was a tough time for tech companies.",
+      "mistral_prompt_retrieved_top-1": "2008 crash, huh? i heard a lot about that. it was a financial crisis that caused the stock market to fall, and many people lost their jobs and their homes.",
+      "llama_prompt_retrieved_top-3": "absolutely! samsung and nintendo are definitely two of japan's most successful companies. and yes, it's great that we've moved past the 2008 crash."
+    },
+    "has_knowledge": false,
+    "idenitical_candidates": {
+      "absolutely! samsung and nintendo are definitely two of japan's most successful companies. and yes, it's great that we've moved past the 2008 crash.": [
+        "llama_prompt_retrieved_top-3",
+        "llama_prompt_retrieved_top-1"
+      ]
+    }
+  },
+  "dial_904_turn_5": {
+    "sample_id": "dial_904_turn_5",
+    "dialogue_id": 904,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "that's so cool! i would have never known otherwise. it's always great to learn something new,",
+      "llama_prompt_gold": "ah, i see! that's interesting! so, it's true that elvis presley's iconic jet black hair was actually his natural hair color.",
+      "llama_ft_gold": "i'm surprised it was brown. i thought it was black.",
+      "llama_ft_retrieved_top-3": "wow, i didn't know that! he's definitely a cultural icon.",
+      "llama_prompt_retrieved_top-3": "ah, i see! yes, you're right! elvis' natural hair color was actually brown, not jet black.",
+      "llama_ft_none": "i love his music, it's so great. i love how he's the only artist to have a number one single in the 1950s, 1960s, and 1970s.",
+      "llama_prompt_none": "ah, i see! interesting, i had no idea his natural hair color was brown. it's amazing how much he transformed his look with the help of hair dye, isn't it?",
+      "llama_ft_retrieved_top-1": "i'm glad i got to see him perform live. he was a great performer.",
+      "llama_prompt_retrieved_top-1": "ah, i see! interesting, right? so, it's true that elvis's iconic look was largely due to his hair, which he dyed black to give him that signature look.",
+      "mistral_prompt_gold": "i see, that's interesting. he definitely had a unique style and was a huge influence on the music industry.",
+      "mistral_ft_gold": "i'm not sure what his hair color was, but i know he was a very talented singer.",
+      "mistral_ft_retrieved_top-3": "i'm sure he was a great person. i'm sure he was very kind.",
+      "mistral_prompt_retrieved_top-3": "i had no idea! it's amazing how he transformed into such an iconic figure. he definitely left a lasting impact on the music industry and popular culture.",
+      "mistral_ft_none": "i didn't know that. i thought it was black. he was a great singer and actor.",
+      "mistral_prompt_none": "wow, i had no idea! that's really interesting. he definitely had a unique style and look that made him stand out.",
+      "mistral_ft_retrieved_top-1": "i'm not sure if he was a good actor, but i know he was a great singer.",
+      "mistral_prompt_retrieved_top-1": "2"
+    },
+    "has_knowledge": false,
+    "idenitical_candidates": {}
+  },
+  "dial_371_turn_6": {
+    "sample_id": "dial_371_turn_6",
+    "dialogue_id": 371,
+    "turn_id": 6,
+    "candidates": {
+      "gt": "my grandmother has all those things done for her too. she always talks about the bingo games and talent shows they happen on a regular basis. it's nice to see and hear about her having fun.",
+      "llama_prompt_gold": "oh, that's great! yes, retirement communities like the one your grandparents live in offer a wide range of activities and amenities to make life comfortable and enjoyable for older adults.",
+      "llama_ft_gold": "they have a pool, a gym, a library, and a community center.",
+      "llama_ft_retrieved_top-3": "they have a lot of activities like bingo, card games, and they even have a swimming pool.",
+      "llama_prompt_retrieved_top-3": "oh, that's great to hear! yes, retirement communities like the one your grandparents live in offer a wide range of activities and amenities to keep residents engaged and active.",
+      "llama_ft_none": "they have a swimming pool, a library, and a community center. they also have a golf course and a restaurant.",
+      "llama_prompt_none": "ah, i see! yes, retirement communities like the one your grandparents live in offer a wide range of activities and amenities to cater to the needs and interests of their residents.",
+      "llama_ft_retrieved_top-1": "they have a pool, a gym, a library, and a community center. they also have a golf course and a restaurant.",
+      "llama_prompt_retrieved_top-1": "oh, that's great to hear! yes, retirement communities offer a wide range of activities and amenities to cater to the needs and interests of their residents.",
+      "mistral_prompt_gold": "exercise classes swimming pools community gardens arts and crafts classes movie nights concerts and live performances educational workshops field trips and excursions volunteer opportunities social events and gatherings game nights cooking classes wine tastings fitness classes yoga and meditation book clubs travel clubs",
+      "mistral_ft_gold": "they have a lot of clubs and activities.",
+      "mistral_ft_retrieved_top-3": "well, they have a lot of activities, like bingo, bowling, and swimming. they also have a lot of dances and parties.",
+      "mistral_prompt_retrieved_top-3": "fitness classes swimming pool golf course tennis courts hiking trails biking trails community garden library art classes cooking classes music classes movie nights game nights outdoor concerts community events cultural festivals guest speakers educational workshops volunteer opportunities 20",
+      "mistral_ft_none": "they have a lot of activities like swimming, tennis, and golf. they also have a lot of clubs and organizations that you can join.",
+      "mistral_prompt_none": "fitness classes, swimming pools, tennis courts, and other sports facilities. social events such as dances, parties, and game nights. arts and crafts classes, such as painting, pottery, and knitting.",
+      "mistral_ft_retrieved_top-1": "they have a lot of different activities, like bingo, bowling, and even a pool. they also have a lot of different clubs that people can join.",
+      "mistral_prompt_retrieved_top-1": "exercise classes, such as tai chi, aqua aerobics, and strength training. social events, such as dances, game nights, and movie nights. arts and crafts classes, such as painting, pottery, and knitting."
+    },
+    "has_knowledge": false,
+    "idenitical_candidates": {}
+  },
+  "dial_308_turn_5": {
+    "sample_id": "dial_308_turn_5",
+    "dialogue_id": 308,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "i love using my phone to order things online like clothes and such!",
+      "llama_prompt_gold": "oh, wow, that's a tough choice! i think my favorite device for online shopping is my smartphone. i mean, it's just so convenient to be able to shop anytime, anywhere.",
+      "llama_ft_gold": "i like to use my smartphone, it is so much easier to use when i am out and about",
+      "llama_ft_retrieved_top-3": "i like to use my tablet",
+      "llama_prompt_retrieved_top-3": "oh, interesting! i'm glad you asked! i actually find that using my smartphone is the most convenient for online shopping.",
+      "llama_ft_none": "i like to use my smartphone because it is portable and i can use it to pay for things with my credit card.",
+      "llama_prompt_none": "oh, wow, that's a tough choice! i think i would have to say my favorite device for online shopping is my smartphone.",
+      "llama_ft_retrieved_top-1": "i like to use my tablet, it is so much easier to use than my laptop",
+      "llama_prompt_retrieved_top-1": "oh, interesting! i'm glad you asked! i personally prefer using my smartphone for online shopping. it's so convenient to be able to browse and make purchases on the go, whenever and wherever i want.",
+      "mistral_prompt_gold": "i prefer using my laptop for online shopping because it is more convenient to type and search for products. it also has a larger screen and i can easily read product descriptions and reviews.",
+      "mistral_ft_gold": "i like using my laptop, it is easier to type on and i can see the screen better",
+      "mistral_ft_retrieved_top-3": "i like using my laptop",
+      "mistral_prompt_retrieved_top-3": "1",
+      "mistral_ft_none": "i like using my laptop, it is so much easier to type on a keyboard than a touch screen",
+      "mistral_prompt_none": "i like to use my laptop because it has a bigger screen and i can easily type in my information.",
+      "mistral_ft_retrieved_top-1": "i like using my laptop, it is easy to type and i can see the screen better",
+      "mistral_prompt_retrieved_top-1": "smartphone: it is easy to shop online with a smartphone as it has a lot of features such as easy browsing and fast loading times."
+    },
+    "has_knowledge": false,
+    "idenitical_candidates": {}
+  },
+  "dial_370_turn_5": {
+    "sample_id": "dial_370_turn_5",
+    "dialogue_id": 370,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "why were the poison bottles colored with cobalt?",
+      "llama_prompt_gold": "ah, i see! yes, cobalt blue was also used in ancient times for creating poison bottles. it's interesting how certain colors have such rich histories and cultural associations.",
+      "llama_ft_gold": "i didn't know that! i'm sure it was used in a lot of things.",
+      "llama_ft_retrieved_top-3": "oh wow! i never knew that! i wonder if it was used in the bottles of poisonous substances.",
+      "llama_prompt_retrieved_top-3": "ah, i see! yes, cobalt blue was also used in the production of poison bottles in the past. it was a popular choice for its distinctive color and durability.",
+      "llama_ft_none": "yes! cobalt is a transition metal in the periodic table. it was used in glassmaking in ancient times.",
+      "llama_prompt_none": "ah, i see! yes, you're right. cobalt blue was also used in poison bottles during the medieval period. it was a distinctive color that was used to identify the contents of the bottle as poison.",
+      "llama_ft_retrieved_top-1": "i didn't know that! i'm sure it was used in the poison bottles of the time.",
+      "llama_prompt_retrieved_top-1": "ah, i see! yes, you're right. cobalt blue was used in ancient times for various purposes, including in poison bottles. it's a very distinctive and recognizable shade of blue, don't you think? (smiling)",
+      "mistral_prompt_gold": "oh no, that's not good to know! it's always important to be careful with things like that. it's good to be informed about the potential dangers of certain things.",
+      "mistral_ft_gold": "i think that's right! i'm not sure though. i know it was used in ancient times for jewelry and painting.",
+      "mistral_ft_retrieved_top-3": "i'm not sure about that, but i do know that it was used in ancient times for jewelry and painting.",
+      "mistral_prompt_retrieved_top-3": "that's not a good thing to be associated with.",
+      "mistral_ft_none": "yes, it was used in poison bottles. it was also used in the making of ink.",
+      "mistral_prompt_none": "that's interesting, i didn't know that. it's fascinating how colors have been used throughout history.",
+      "mistral_ft_retrieved_top-1": "i'm sure it was! i'm sure it was used in a lot of things. i'm sure it was used in a lot of things.",
+      "mistral_prompt_retrieved_top-1": "that's not something i'd like to know! it's important to be careful about what we put in our bodies."
+    },
+    "has_knowledge": false,
+    "idenitical_candidates": {}
+  },
+  "dial_327_turn_6": {
+    "sample_id": "dial_327_turn_6",
+    "dialogue_id": 327,
+    "turn_id": 6,
+    "candidates": {
+      "gt": "i would have to say the new york stock exchange. its the hub of the worlds transactions.",
+      "llama_prompt_gold": "ah, an excellent question! the largest stock exchange in the world is a matter of some debate, as there are several major exchanges that are considered to be among the largest.",
+      "llama_ft_gold": "new york stock exchange is the largest stock exchange in the world.",
+      "llama_ft_retrieved_top-3": "the new york stock exchange (nyse) is the world's largest stock exchange by total market capitalization of its listed companies",
+      "llama_prompt_retrieved_top-3": "ah, an interesting question! the biggest stock exchange in the world is a matter of some debate, as there are several major exchanges that are considered to be among the largest.",
+      "llama_ft_none": "the stock exchange is a physical place where stocks are bought and sold.",
+      "llama_prompt_none": "ah, an interesting question! the largest stock exchange in the world is a matter of some debate, as there are several exchanges that can be considered the largest depending on the criteria used.",
+      "llama_ft_retrieved_top-1": "i would say the stock exchange in new york.",
+      "llama_prompt_retrieved_top-1": "ah, an interesting question! the largest stock exchange in the world is a matter of some debate, as there are several major exchanges that are considered to be among the largest.",
+      "mistral_prompt_gold": "new york stock exchange (nyse) nasdaq global select market (nasdaq) london stock exchange (lse) toronto stock exchange (tsx) bombay stock exchange (bse) shanghai stock exchange (sse) euronext (euronext) shenzhen stock exchange (sse) hong kong stock exchange (hkex) australian securities exchange (asx)",
+      "mistral_ft_gold": "i am not sure but i do know that the stock market is a big part of the economy",
+      "mistral_ft_retrieved_top-3": "i am not sure but i know that the new york stock exchange is the largest stock exchange in the world by market capitalization of its listed companies.",
+      "mistral_prompt_retrieved_top-3": "new york stock exchange (nyse) nasdaq global select market (nasdaq) london stock exchange (lse) tokyo stock exchange (tse) shanghai stock exchange (sse) bombay stock exchange (bse) national stock exchange of india (nse) toronto stock exchange (tsx) australian securities exchange (asx) hong kong stock exchange (hkex) six swiss",
+      "mistral_ft_none": "the new york stock exchange is the largest stock exchange in the world",
+      "mistral_prompt_none": "the new york stock exchange (nyse) is one of the largest stock exchanges in the world. the nasdaq global select market is another major stock exchange in the world.",
+      "mistral_ft_retrieved_top-1": "i am not sure but i know the new york stock exchange is the largest stock exchange in the world by market capitalization",
+      "mistral_prompt_retrieved_top-1": "new york stock exchange (nyse) nasdaq global select market (nasdaq) london stock exchange (lse) tokyo stock exchange (tse) bombay stock exchange (bse) toronto stock exchange (tsx) sydney stock exchange (ssx) shanghai stock exchange (sse) shenzhen stock exchange (szse) hong kong stock exchange (hkex) please note that the ranking"
+    },
+    "has_knowledge": false,
+    "idenitical_candidates": {}
+  },
+  "dial_788_turn_6": {
+    "sample_id": "dial_788_turn_6",
+    "dialogue_id": 788,
+    "turn_id": 6,
+    "candidates": {
+      "gt": "i personally love it, i look forward to the super bowl every year.",
+      "llama_prompt_gold": "oh, really? well, i think you might be surprised!",
+      "llama_ft_gold": "i think it is a very popular sport in canada.",
+      "llama_ft_retrieved_top-3": "it is a very popular sport in canada, australia, and the united kingdom.",
+      "llama_prompt_retrieved_top-3": "oh, i see! well, you're in luck! the nfl (national football league) was founded in 1920, making it one of the oldest professional sports leagues in the united states.",
+      "llama_ft_none": "11-man teams are the most common.",
+      "llama_prompt_none": "ah, i see! yes, american football is definitely a popular sport in the united states, but it's not as widely played or followed in other countries.",
+      "llama_ft_retrieved_top-1": "i think that is true. it is a very popular sport in the united states.",
+      "llama_prompt_retrieved_top-1": "ah, i see! yes, american football is a sport that is primarily popular in the united states.",
+      "mistral_prompt_gold": "the nfl (national football league) is the professional sports league in the united states.",
+      "mistral_ft_gold": "i think that is because it is such a physical sport.",
+      "mistral_prompt_retrieved_top-3": "football is a popular sport worldwide, with many countries having their own professional leagues and national teams. some countries, such as australia, canada, and new zealand, have their own unique variations of football.",
+      "mistral_ft_none": "i know that the super bowl is the most watched television event in the us.",
+      "mistral_prompt_none": "1",
+      "mistral_prompt_retrieved_top-1": "what are the two main types of american football? how many players are on each team in american football? what is the objective of american football? what are the different positions in american football?",
+      "mistral_ft_retrieved_top-3": "i think that is true. i have never seen a football game in another country."
+    },
+    "has_knowledge": false,
+    "idenitical_candidates": {
+      "i think that is true. i have never seen a football game in another country.": [
+        "mistral_ft_retrieved_top-3",
+        "mistral_ft_retrieved_top-1"
+      ]
+    }
+  },
+  "dial_563_turn_6": {
+    "sample_id": "dial_563_turn_6",
+    "dialogue_id": 563,
+    "turn_id": 6,
+    "candidates": {
+      "gt": "yes! the professional bowlers association has a tour for ten-pin bowling, which is a popular type of bowling.",
+      "llama_prompt_gold": "oh, absolutely! professional bowling is a thing, and it's actually pretty exciting!",
+      "llama_ft_gold": "the pba tour is the major professional tour for ten-pin bowling, operated by the professional bowlers association.",
+      "llama_ft_retrieved_top-3": "yes, there is professional bowling. it is a part of the world bowling tour.",
+      "llama_prompt_retrieved_top-3": "oh, you're right! i apologize for my mistake earlier. professional bowling is indeed a thing, and it's actually quite popular!",
+      "llama_ft_none": "it is a sport that has been around for thousands of years. it is played in many countries around the world.",
+      "llama_prompt_none": "oh, absolutely! professional bowling is a thing, and it's actually quite popular. there are several professional bowling tours, including the professional bowlers association (pba) tour and the women's professional bowlers association (wpba) tour.",
+      "llama_ft_retrieved_top-1": "yes! the world bowling tour is a series of international tournaments.",
+      "llama_prompt_retrieved_top-1": "oh, absolutely! professional bowling is a thing, and it's actually quite popular. there are several professional bowling tours and organizations, including the professional bowlers association (pba) and the women's professional bowlers association (wpba).",
+      "mistral_prompt_gold": "12 strikes in a row is known as a \"perfect game\" and is a rare feat in bowling.",
+      "mistral_ft_gold": "yes, there is the pba tour which is the major professional tour for ten-pin bowling.",
+      "mistral_ft_retrieved_top-3": "yes, there is! it is televised and is a popular form of entertainment.",
+      "mistral_prompt_retrieved_top-3": "10-pin bowling is the most popular form of bowling and it is televised in various tournaments and competitions. professional bowlers compete in national and international tournaments and can win significant prizes and recognition.",
+      "mistral_ft_none": "yes, there is professional bowling. it is televised and is a major sport.",
+      "mistral_prompt_none": "12 strikes in a row is known as a \"strike out\" and the maximum score is yes, there is professional bowling and it is televised.",
+      "mistral_ft_retrieved_top-1": "yes, there is professional bowling. it is televised and is a popular sport.",
+      "mistral_prompt_retrieved_top-1": "professional bowling is a competitive sport where bowlers compete for prize money and recognition."
+    },
+    "has_knowledge": true,
+    "idenitical_candidates": {}
+  },
+  "dial_95_turn_5": {
+    "sample_id": "dial_95_turn_5",
+    "dialogue_id": 95,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "i use a compound bow because of its rigidity, it makes the compound bow more energy-efficient than any other bows, it easier too because a lot less energy is dissipated in limb movement.",
+      "llama_prompt_gold": "ah, i see! i actually use a compound bow for hunting, and i find it to be much more efficient than a regular bow.",
+      "llama_ft_gold": "i use a compound bow, i like it because it is more energy efficient than other bows.",
+      "llama_ft_retrieved_top-3": "i use a compound bow for hunting, its more accurate and easier to use.",
+      "llama_prompt_retrieved_top-3": "oh, wow! i'm glad you're interested in archery! as a seasoned archer myself, i can tell you that it's a fantastic sport that requires patience, focus, and skill.",
+      "llama_ft_none": "i use a compound bow for hunting. it is a lot easier to use than a recurve bow.",
+      "llama_prompt_none": "oh, great! i'm glad you're interested in archery! using a compound bow for hunting is more common, as it provides more power and accuracy compared to a regular bow.",
+      "llama_ft_retrieved_top-1": "i use a compound bow, its a lot easier to use and its more accurate.",
+      "llama_prompt_retrieved_top-1": "ah, interesting! i actually use a recurve bow for hunting, but i've heard great things about compound bows as well.",
+      "mistral_prompt_gold": "i personally use a compound bow for hunting. the compound bow is a type of bow that uses a compound lever to store and release energy, making it more energy-efficient than a regular bow.",
+      "mistral_ft_gold": "i use a compound bow, it is more energy efficient than other bows.",
+      "mistral_ft_retrieved_top-3": "i use a compound bow, it has a lever arm that helps to store energy and increase the power of the bow.",
+      "mistral_prompt_retrieved_top-3": "history of archery: archery has a long history dating back to ancient civilizations such as egypt, china, and greece. it was used as a hunting tool and for military purposes.",
+      "mistral_ft_none": "i use a compound bow, i find it easier to use than a regular bow.",
+      "mistral_prompt_none": "i use a compound bow for hunting. it's more accurate and has a longer range than a regular bow. a regular bow is more suitable for recreational use and target practice.",
+      "mistral_ft_retrieved_top-1": "i use a compound bow, it has a lever arm that helps to store elastic energy and then release it when the bow is drawn back.",
+      "mistral_prompt_retrieved_top-1": "history of archery: archery has a long history dating back to ancient times. it was used for hunting, warfare, and religious ceremonies."
+    },
+    "has_knowledge": true,
+    "idenitical_candidates": {}
+  },
+  "dial_835_turn_6": {
+    "sample_id": "dial_835_turn_6",
+    "dialogue_id": 835,
+    "turn_id": 6,
+    "candidates": {
+      "gt": "there are different types of bowling where you knock down different objects. i have not played those",
+      "llama_prompt_gold": "haha, i see! well, at least we're consistent. yeah, i've tried my hand at both pin and target bowling, and let me tell you, it's not easy! the different surfaces definitely make a difference.",
+      "llama_ft_gold": "105 is pretty good! i like to play on a flat wooden surface.",
+      "llama_ft_retrieved_top-3": "300 is the highest score you can achieve.",
+      "llama_prompt_retrieved_top-3": "haha, yeah, i can definitely relate! i've had my fair share of gutter balls and low scores as well. but hey, at least we're not alone in our struggles, right?",
+      "llama_ft_none": "300 is the highest possible score.",
+      "llama_prompt_none": "haha, well, at least we're even then! 105 is still a decent score, though. i've found that practice makes perfect, so maybe you'll get better with time.",
+      "llama_ft_retrieved_top-1": "300 is a lot of pins! i've never even gotten",
+      "llama_prompt_retrieved_top-1": "haha, nice! yeah, 105 is definitely a respectable score, but you're right, it's not easy to get a high score in bowling.",
+      "mistral_prompt_gold": "105 is a good score! i'm not too great at bowling either, but i find it fun to try.",
+      "mistral_ft_gold": "300 is a great score! i have heard that the surface can be oiled in different patterns for different techniques.",
+      "mistral_ft_retrieved_top-3": "105 is great! i have never been to a bowling alley but i have played in a bowling alley in my backyard.",
+      "mistral_prompt_retrieved_top-3": "105 is a great score! and you're right, the maximum score in bowling is 300, which is achieved by getting 12 strikes in a row.",
+      "mistral_ft_none": "105 is great! i have never achieved that. i have never even achieved a perfect game.",
+      "mistral_prompt_none": "105 is still a great score! i have only achieved a 150 once, but i am always trying to improve.",
+      "mistral_ft_retrieved_top-1": "105 is great! i have never been to a bowling alley that has more than 8 lanes.",
+      "mistral_prompt_retrieved_top-1": "105 is still a great score, though! keep practicing and you can get there."
+    },
+    "has_knowledge": true,
+    "idenitical_candidates": {}
+  },
+  "dial_475_turn_6": {
+    "sample_id": "dial_475_turn_6",
+    "dialogue_id": 475,
+    "turn_id": 6,
+    "candidates": {
+      "gt": "the nfl, afl and cfl.",
+      "llama_prompt_gold": "ah, i see! yes, there are several professional football leagues in north america beyond the nfl.",
+      "llama_ft_gold": "the three best known are the national football league (nfl) and the arena football league (afl) in the u.s. and the canadian football league (cfl) in canada.",
+      "llama_prompt_retrieved_top-3": "ah, great! so, you're a fan of american football! yes, there are several professional football leagues in north america, aside from the national football league (nfl) which is the most popular and well-known.",
+      "llama_ft_none": "there are three professional leagues in north america.",
+      "llama_prompt_none": "oh, i see!",
+      "llama_ft_retrieved_top-1": "the canadian football league is one of the other leagues.",
+      "llama_prompt_retrieved_top-1": "great, let's talk more about american football!",
+      "mistral_prompt_gold": "national football league (nfl) arena football league (afl) canadian football league (cfl) x league (xfl) super league of football (slf) united states football league (usfl) world league of american football (wlaf) american football league (afl) american football league (afl) american football league (afl)",
+      "mistral_prompt_retrieved_top-3": "national football league (nfl) arena football league (afl) canadian football league (cfl) x league (xfl) major arena soccer league (masl) united soccer league (usl) north american soccer league (nasl) canadian premier soccer league (cpsl) usl championship usl league one.",
+      "mistral_ft_none": "there is the canadian football league and the arena football league.",
+      "mistral_prompt_none": "major league baseball (mlb) national basketball association (nba) national hockey league (nhl) professional golfers association (pga) women's national basketball association (wnba) american association (aa) international league (il) pacific coast league (pcl) southern league (sl) american league central (alc) american league east (ale) national football league (n",
+      "mistral_ft_retrieved_top-1": "there is the canadian football league, arena football league, and the xfl.",
+      "mistral_prompt_retrieved_top-1": "canadian football league (cfl) arena football league (afl) xfl (xtreme football league) usfl (united states football league)",
+      "llama_ft_retrieved_top-3": "the arena football league (afl) in the u.s. and the canadian football league (cfl) in canada."
+    },
+    "has_knowledge": true,
+    "idenitical_candidates": {
+      "the arena football league (afl) in the u.s. and the canadian football league (cfl) in canada.": [
+        "llama_ft_retrieved_top-3",
+        "mistral_ft_gold",
+        "mistral_ft_retrieved_top-3"
+      ]
+    }
+  },
+  "dial_345_turn_5": {
+    "sample_id": "dial_345_turn_5",
+    "dialogue_id": 345,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "you must also have a lot of mental strength as well as it requires alertness, precision and self confidence.",
+      "llama_prompt_gold": "oh, wow! i never realized that gymnastics can also help develop mental traits like alertness, precision, daring, self-confidence, and self-discipline. that's amazing!",
+      "llama_ft_gold": "alertness, precision, daring, self-confidence and self-discipline are mental traits that can also be developed through gymnastics.",
+      "llama_ft_retrieved_top-3": "competitive artistic gymnastics is the best known of the gymnastic events.",
+      "llama_prompt_retrieved_top-3": "wow, competing must have been an incredible experience! it's great that you were able to develop your strength, flexibility, and coordination through gymnastics.",
+      "llama_ft_none": "the term gymnastics comes from the greek word \"gymnos\" which means \"naked\". i wonder why!",
+      "llama_prompt_none": "wow, competing at a high level must have been incredibly challenging and rewarding! did you have a favorite event or skill that you excelled in?",
+      "llama_ft_retrieved_top-1": "i bet you were a great gymnast! gymnastics is a sport practiced by men and women.",
+      "llama_prompt_retrieved_top-1": "ah, i see! so you're a former competitive gymnast? that's amazing! gymnastics is indeed a sport that requires a combination of strength, flexibility, agility, coordination, endurance, and control.",
+      "mistral_prompt_gold": "alertness: gymnastics requires a lot of focus and attention to detail. from the moment you step into the gym, you need to be aware of your surroundings, your body, and your movements.",
+      "mistral_ft_gold": "i bet you were very alert, precise, daring, self-confident and self-disciplined!",
+      "mistral_prompt_retrieved_top-3": "gymnastics is a sport that requires balance, strength, flexibility, agility, coordination, endurance, and control. the movements involved in gymnastics contribute to the development of the arms, legs, shoulders, back, chest, and abdominal muscle groups.",
+      "mistral_ft_none": "i can imagine! i bet you were really good at the 4 types of gymnastics: artistic, rhythmic, aerobic and acrobatics.",
+      "mistral_prompt_none": "that's a shame, i'm sure you were really good at it. maybe you could teach others or do it for fun now. it's never too late to start a new hobby!",
+      "mistral_prompt_retrieved_top-1": "2",
+      "mistral_ft_retrieved_top-3": "gymnastics is a sport practiced by men and women that requires balance, strength, flexibility, agility, coordination, endurance and control."
+    },
+    "has_knowledge": true,
+    "idenitical_candidates": {
+      "gymnastics is a sport practiced by men and women that requires balance, strength, flexibility, agility, coordination, endurance and control.": [
+        "mistral_ft_retrieved_top-3",
+        "mistral_ft_retrieved_top-1"
+      ]
+    }
+  },
+  "dial_145_turn_5": {
+    "sample_id": "dial_145_turn_5",
+    "dialogue_id": 145,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "yes, but he also have a song jailhouse rock, it was a very big hit for elvis.",
+      "llama_prompt_gold": "oh, really? well, did you know that \"jailhouse rock\" is actually a song by elvis presley?",
+      "llama_ft_gold": "jailhouse rock is also a song written by jerry leiber and mike stoller.",
+      "llama_ft_retrieved_top-3": "1956 he was drafted into the us army.",
+      "llama_prompt_retrieved_top-3": "oh, wow! i didn't know that! so, elvis presley is not only a great singer and actor, but he's also a cultural icon of the 20th century!",
+      "llama_ft_none": "elvis was born in 1935 and died in",
+      "llama_prompt_none": "ah, i see! yes, jailhouse rock is one of elvis's most famous movies.",
+      "llama_ft_retrieved_top-1": "1956 was the year when elvis presley became a national sensation.",
+      "llama_prompt_retrieved_top-1": "oh, wow! that's really interesting! so, elvis's rise to fame was largely due to his appearances on network television and his hit records, which helped to popularize rock and roll music.",
+      "mistral_prompt_gold": "jailhouse rock (song) is a hit for elvis presley. the song was written by jerry leiber and mike stoller. jailhouse rock (song) was first released in",
+      "mistral_ft_gold": "jailhouse rock is a song written by jerry leiber and mike stoller that first became a hit for elvis presley.",
+      "mistral_ft_retrieved_top-3": "he was born in 1935 in tupelo, mississippi.",
+      "mistral_prompt_retrieved_top-3": "elvis presley was known as the \"king of rock and roll\" due to his significant impact on the music industry and his popularity.",
+      "mistral_ft_none": "elvis was inducted into the u.s. army in",
+      "mistral_prompt_none": "1954 was also the year he recorded his first hit song, blue suede's cat.",
+      "mistral_ft_retrieved_top-1": "he was a very successful singer and actor. he was also known as the \"king of rock and roll\".",
+      "mistral_prompt_retrieved_top-1": "elvis presley was a singer and actor who became a leading figure in the rock and roll industry in the 1950s. he had a successful career in television and music, with many chart-topping hits."
+    },
+    "has_knowledge": true,
+    "idenitical_candidates": {}
+  },
+  "dial_767_turn_5": {
+    "sample_id": "dial_767_turn_5",
+    "dialogue_id": 767,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "yeah thats what i think most use. ive seen people with stubby short skis and no poles before. the first skier who used two poles was back in 1741",
+      "llama_prompt_gold": "ah, i see! using long skis and poles is definitely a classic way to go down the mountain.",
+      "llama_ft_gold": "1741 is when the first depiction of a skier with two ski poles was seen.",
+      "llama_ft_retrieved_top-3": "the word ski is derived from the old norse word sk which means \"a piece of wood\".",
+      "llama_prompt_retrieved_top-3": "ah, i see! so, you're a seasoned skier with a deep appreciation for the history of the sport. that's great!",
+      "llama_ft_none": "skiing has been around for a long time, the word skiing is from the old norse word ska.",
+      "llama_prompt_none": "ah, i see! using long skis and poles can definitely give you an edge on the slopes, especially when navigating challenging terrain.",
+      "llama_ft_retrieved_top-1": "i love skiing in the mountains. i would go to the rocky mountains.",
+      "llama_prompt_retrieved_top-1": "ah, i see! yeah, i've heard that skiing has a rich history, dating back to prehistoric times.",
+      "mistral_prompt_gold": "1741! wow, that's really old. i didn't know that. i've been skiing for a long time, but i didn't know it had such a long history.",
+      "mistral_ft_gold": "the first depiction of a skier with two ski poles dates to",
+      "mistral_ft_retrieved_top-3": "i love skiing in the winter. i love the cold. i love the snow. i love the snowy mountains. i love the snowy mountains.",
+      "mistral_prompt_retrieved_top-3": "skiing has a history of at least eight millennia. skiing has a history of almost five millennia.",
+      "mistral_ft_none": "i love skiing in the winter. i love the cold weather. i love the snow. i love the mountains.",
+      "mistral_prompt_none": "i've skied in a lot of different places, including the alps, the rocky mountains, and the swiss alps. i've also taken a skiing course and have been taught by a professional instructor.",
+      "mistral_ft_retrieved_top-1": "i love skiing in the winter. i love the cold. i love the snow. i love the mountains. i love the cold. i love the snow. i love the mountains.",
+      "mistral_prompt_retrieved_top-1": "8 millennia? wow, that's a long time ago. i've only been skiing for about 20 years or so. i've been to a lot of different ski resorts and i've tried a lot of different runs."
+    },
+    "has_knowledge": true,
+    "idenitical_candidates": {}
+  },
+  "dial_590_turn_6": {
+    "sample_id": "dial_590_turn_6",
+    "dialogue_id": 590,
+    "turn_id": 6,
+    "candidates": {
+      "gt": "he practices law for ten years criminal law actually",
+      "llama_prompt_gold": "oh, definitely! john grisham is a fascinating figure with a diverse background. here are some more interesting facts about him: * john grisham was born on february 8, 1955, in jonesboro, arkansas.",
+      "llama_ft_retrieved_top-3": "1991 he published first novel \"a time to kill\"",
+      "llama_prompt_retrieved_top-3": "oh, wow, you're really into john grisham today! *adjusts glasses* well, let me tell you more about this fascinating guy. so, john grisham was born in 1955 in arkansas, and he grew up in mississippi.",
+      "llama_ft_none": "1993 he won mississippi authors award",
+      "llama_prompt_none": "sure! john grisham is a bestselling author known for his legal thrillers, but he also has a background in politics.",
+      "llama_ft_retrieved_top-1": "1989 he published first novel \"a time to kill\"",
+      "llama_prompt_retrieved_top-1": "oh, wow! so, john grisham is not only a prolific author, but he's also a former politician and activist! that's really interesting.",
+      "mistral_prompt_gold": "1990 he retired from the legislature to focus on writing full-time. he is best known for his legal thrillers, which often feature small-town mississippi settings and themes of racial injustice.",
+      "mistral_ft_retrieved_top-3": "1990-1993 he served as the speaker of the house",
+      "mistral_prompt_retrieved_top-3": "he was born on february 8, 1955 in stonewall, mississippi, and grew up in the small town of vicksburg.",
+      "mistral_prompt_none": "1994-2004 he served as a justice of the mississippi supreme court. he is known for his legal thrillers and has written over 50 books, including \"the firm,\" \"the pelican brief,\" and \"a time to kill.\"",
+      "mistral_prompt_retrieved_top-1": "grisham's legal career began in 1979, when he graduated from mississippi state university school of law.",
+      "llama_ft_gold": "84-90 he served mississippi house of representatives",
+      "mistral_ft_none": "1994 he was elected to the u.s. house of representatives"
+    },
+    "has_knowledge": true,
+    "idenitical_candidates": {
+      "84-90 he served mississippi house of representatives": [
+        "llama_ft_gold",
+        "mistral_ft_gold"
+      ],
+      "1994 he was elected to the u.s. house of representatives": [
+        "mistral_ft_none",
+        "mistral_ft_retrieved_top-1"
+      ]
+    }
+  },
+  "dial_785_turn_5": {
+    "sample_id": "dial_785_turn_5",
+    "dialogue_id": 785,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "i'm not sure, but you need at least seven years after graduating from med school of training.",
+      "llama_prompt_gold": "yes, it's incredible to think about how far neurosurgery has come!",
+      "llama_ft_gold": "in most countries, neurosurgeon training requires a minimum period of seven years after graduating from medical school.",
+      "llama_ft_retrieved_top-3": "1908 is when neurosurgery was first recognized as a distinct specialty.",
+      "llama_prompt_retrieved_top-3": "oh, absolutely! before the invention of brain surgery, patients with neurological disorders had limited treatment options and often had to rely on other forms of medicine, such as traditional chinese medicine or homeopathy.",
+      "llama_ft_none": "1889, the neurosurgeon, gross, invented the neurosurgical stapler.",
+      "llama_prompt_none": "that's a great question!",
+      "llama_ft_retrieved_top-1": "1900s, i believe. it's a very specialized field, and one that requires a lot of training.",
+      "llama_prompt_retrieved_top-1": "ah, yes! it's incredible to think about how far neurosurgery has come since its inception.",
+      "mistral_prompt_gold": "the concept of brain surgery can be traced back to ancient civilizations, but the first recorded brain surgery was performed by the greek physician galen in the 2nd century ad.",
+      "mistral_ft_gold": "i'm not sure, but i do know that in most countries, neurosurgeon training requires a minimum period of seven years after graduating from medical school.",
+      "mistral_ft_retrieved_top-3": "well, the first recorded brain surgery was done in 1793 by a frenchman named joseph-michel montanari.",
+      "mistral_prompt_retrieved_top-3": "the history of neurosurgery dates back to ancient civilizations. for example, in ancient egypt, the physician hemon was credited with performing brain surgery.",
+      "mistral_ft_none": "1820 was the first recorded brain surgery.",
+      "mistral_prompt_none": "1927 was the year when the first successful brain surgery was performed by a french surgeon named paul dudok de wit. he removed a tumor from a patient's brain using a technique called craniotomy.",
+      "mistral_ft_retrieved_top-1": "well, the first recorded brain surgery was done in 1793 by benjamin bell.",
+      "mistral_prompt_retrieved_top-1": "the concept of surgery on the brain can be traced back to ancient civilizations like egypt and greece, but the earliest neurosurgeries were performed by traditional healers and priests."
+    },
+    "has_knowledge": true,
+    "idenitical_candidates": {}
+  },
+  "dial_43_turn_5": {
+    "sample_id": "dial_43_turn_5",
+    "dialogue_id": 43,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "these novels were written by british author j. k. rowling.",
+      "llama_prompt_gold": "ah, an fellow harry potter fan! yes, the series is written by the talented british author j.k. rowling.",
+      "llama_ft_retrieved_top-3": "the novels chronicle the life of a young wizard, harry potter, and his friends hermione granger and ron weasley, all of whom are students at hogwarts school of witchcraft and wizardry.",
+      "llama_prompt_retrieved_top-3": "ah, an fellow harry potter fan! *nods enthusiastically* yes, the novels were written by j.k. rowling, a british author who is widely known for her magical world of wizards and witches.",
+      "llama_ft_none": "the author is j.k. rowling. she is an english author and screenwriter.",
+      "llama_prompt_none": "ah, i see! well, the harry potter series was written by j.k. rowling.",
+      "llama_ft_retrieved_top-1": "the author is j.k. rowling. she is a british novelist, screenwriter, and film producer.",
+      "llama_prompt_retrieved_top-1": "ah, an excellent question! the harry potter series was written by j.k. rowling.",
+      "mistral_prompt_gold": "yes, that's correct. j. k. rowling is the author of the harry potter series.",
+      "mistral_ft_retrieved_top-3": "the novels were written by british author j. k. rowling.",
+      "mistral_prompt_retrieved_top-3": "yes, you are correct. j. k. rowling wrote the harry potter series.",
+      "mistral_ft_none": "j.k. rowling wrote the books.",
+      "mistral_prompt_none": "the harry potter series was written by j.k. rowling.",
+      "mistral_ft_retrieved_top-1": "the author is j.k. rowling. she wrote seven books in the series.",
+      "mistral_prompt_retrieved_top-1": "j.k. rowling wrote the harry potter series.",
+      "llama_ft_gold": "harry potter is a series of fantasy novels written by british author j. k. rowling."
+    },
+    "has_knowledge": true,
+    "idenitical_candidates": {
+      "harry potter is a series of fantasy novels written by british author j. k. rowling.": [
+        "llama_ft_gold",
+        "mistral_ft_gold"
+      ]
+    }
+  }
+}

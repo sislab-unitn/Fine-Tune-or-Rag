@@ -1,0 +1,5 @@
+{
+    "NoInstr": "",
+    "Instr1": "This is a conversation between two people. Use the context to write an engaging reply for the other person.",
+    "Instr2": "Write a coherent continuation for the proposed conversation."
+}

@@ -1,0 +1,31 @@
+__pycache__/
+
+.python-version
+
+original_data/*
+!original_data/.gitkeep
+
+# Ignore the data directory
+data/*
+# Except for the following subdirectories
+!data/DailyDialog
+!data/DSTC9
+!data/NarrativeQA
+!data/WizardOfWikipedia
+# Ignore all the files in the subdirectories
+data/DailyDialog/*
+data/DSTC9/*
+data/NarrativeQA/*
+data/WizardOfWikipedia/*
+# Except for the following files
+!data/**/generation.json
+!data/**/prompts.json
+!data/**/samples_to_eval.json
+
+output/*
+!output/.gitkeep
+
+*.tar.gz
+*.tar.xz
+
+*.sh

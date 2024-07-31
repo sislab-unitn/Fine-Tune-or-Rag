@@ -1,0 +1,5 @@
+{
+    "NoInstr": "",
+    "Instr1": "You are presented with a user's Question about a movie or book. Answer to the user's Question using the information provided in the Context.",
+    "Instr2": "Answer to the user's question using the provided information (if available)."
+}

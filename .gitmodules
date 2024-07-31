@@ -1,0 +1,3 @@
+[submodule "alexa_with_dstc9_track1_dataset"]
+	path = alexa_with_dstc9_track1_dataset
+	url = https://github.com/alexa/alexa-with-dstc9-track1-dataset

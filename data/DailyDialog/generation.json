@@ -1,0 +1,36 @@
+{
+    "optimization": {
+        "max_new_tokens": 78
+    },
+    "best_parameters": {
+        "max_new_tokens": 330,
+        "mistral_prompt_none": {
+            "system_prompt": "NoInstr",
+            "top_p": 0.75,
+            "temperature": 0.7,
+            "top_k": 20,
+            "bleu": 0.0033877458510820917
+        },
+        "mistral_ft_none_2": {
+            "system_prompt": "NoInstr",
+            "top_p": 0.5,
+            "temperature": 0.9,
+            "top_k": 20,
+            "bleu": 0.00742160901105750
+        },
+        "llama_prompt_none": {
+            "system_prompt": "Instr2",
+            "top_p": 0.75,
+            "temperature": 0.5,
+            "top_k": 20,
+            "bleu": 0.0020050409746706016
+        },
+        "llama_ft_none_0": {
+            "system_prompt": "NoInstr",
+            "top_p": 0.5,
+            "temperature": 0.7,
+            "top_k": 20,
+            "bleu": 0.0060277040694061085
+        }
+    }
+}

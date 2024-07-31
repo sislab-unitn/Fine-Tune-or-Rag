@@ -1,0 +1,591 @@
+{
+  "test_2243_5": {
+    "sample_id": "test_2243_5",
+    "dialogue_id": 2243,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "for a delayed or cancelled train there is a full refund, outside of that it's a 12 pound fee. when would you like to leave?",
+      "llama_prompt_gold": "of course, i'd be happy to help you with that!",
+      "llama_ft_gold": "12 gbp is the fee for a cancelled train. do you have any other questions?",
+      "llama_prompt_retrieved_top-3": "hello! i'm here to help you with your train journey. so, you're looking for a train that departs from cambridge and goes to ely on friday? great!",
+      "llama_ft_none": "20 gbp is charged for cancellation. would you like to book a ticket?",
+      "llama_prompt_none": "i apologize, but i'm a large language model, i cannot provide you with real-time train information or cancellation policies.",
+      "llama_prompt_retrieved_top-1": "sure, i'd be happy to help!",
+      "mistral_prompt_gold": "12 gbp is the fee for a delayed or cancelled train.",
+      "mistral_ft_gold": "12 gbp fee for cancellation, otherwise no fee for delayed or cancelled train. would you like to make a reservation?",
+      "mistral_ft_retrieved_top-3": "12 gbp is the cancellation fee unless the train is delayed or cancelled. what time would you like to depart?",
+      "mistral_prompt_retrieved_top-3": "is there a particular time you'd like to leave?",
+      "mistral_ft_none": "12 gbp cancellation fee if cancelled less than 24 hours in advance. anything else i can do for you?",
+      "mistral_prompt_none": "the cancellation policy for the train varies depending on the train operator and the type of ticket you have.",
+      "mistral_prompt_retrieved_top-1": "12 gbp?",
+      "mistral_ft_retrieved_top-1": "12 gbp cancellation fee applies for delayed or cancelled trains, otherwise it's free. do you have any other questions?",
+      "llama_ft_retrieved_top-3": "12 gbp is the fee for a delayed or cancelled train. would you like to book a ticket?"
+    },
+    "idenitical_candidates": {
+      "12 gbp is the fee for a delayed or cancelled train. would you like to book a ticket?": [
+        "llama_ft_retrieved_top-3",
+        "llama_ft_retrieved_top-1"
+      ]
+    },
+    "has_knowledge": true
+  },
+  "test_3440_7": {
+    "sample_id": "test_3440_7",
+    "dialogue_id": 3440,
+    "turn_id": 7,
+    "candidates": {
+      "gt": "yes, they allow children of any age. would you like to book a room?",
+      "llama_prompt_gold": "great, i'm glad to hear that! the acorn guest house is a family-friendly hotel, and children of any age are welcome to stay with us.",
+      "llama_ft_gold": "yes, children are allowed at the acorn guest house. would you like to make a reservation?",
+      "llama_ft_retrieved_top-3": "yes, children are allowed at acorn guest house. would you like to make a reservation?",
+      "llama_prompt_retrieved_top-3": "sure, i'd be happy to help you find a suitable hotel for your stay. you mentioned that you're looking for a 4-star hotel with free parking.",
+      "llama_ft_none": "children are allowed to stay here. would you like to make a reservation?",
+      "llama_prompt_none": "of course! the acorn guest house is happy to accommodate children.",
+      "llama_prompt_retrieved_top-1": "sure, i'd be happy to help you find a 4-star guesthouse in the north area with free parking.",
+      "llama_ft_retrieved_top-1": "yes, children are allowed at the acorn guest house. do you have any other questions?",
+      "mistral_ft_gold": "10 years old and older are allowed. do you have any other questions?",
+      "mistral_ft_retrieved_top-3": "12 and older children are allowed at the acorn guest house. would you like to make a reservation?",
+      "mistral_prompt_retrieved_top-3": "\"i recommend the acorn guest house. would you like me to book a room for you?\"",
+      "mistral_ft_none": "10 year olds are allowed to stay. would you like to make a reservation?",
+      "mistral_prompt_none": "4 star guesthouses in the north with free parking are limited, but i recommend the acorn guest house. they do allow children, but there may be additional fees.",
+      "mistral_ft_retrieved_top-1": "2 children are allowed at the acorn guest house. would you like to make a reservation?",
+      "mistral_prompt_gold": "i recommend the acorn guest house. would you like me to book a room for you?"
+    },
+    "idenitical_candidates": {
+      "i recommend the acorn guest house. would you like me to book a room for you?": [
+        "mistral_prompt_gold",
+        "mistral_prompt_retrieved_top-1"
+      ]
+    },
+    "has_knowledge": true
+  },
+  "test_1667_7": {
+    "sample_id": "test_1667_7",
+    "dialogue_id": 1667,
+    "turn_id": 7,
+    "candidates": {
+      "gt": "the curry prince does not offer take-out ordering at this time for guests. will this be ok?",
+      "llama_prompt_gold": "of course! yes, the curry prince does offer takeout orders. would you like me to make a reservation for you?",
+      "llama_ft_gold": "curry prince does not offer take-out ordering. do you need anything else?",
+      "llama_ft_retrieved_top-3": "curry prince does not offer take-out ordering. do you have any other questions?",
+      "llama_prompt_retrieved_top-3": "understood, thank you for letting me know. the curry prince does not offer take-out ordering, unfortunately. is there anything else i can help you with?",
+      "llama_ft_none": "yes, the curry prince does offer takeout. would you like to make a reservation?",
+      "llama_prompt_none": "yes, the curry prince does take takeout orders. in fact, they have a dedicated takeout window in the back of the restaurant for convenient pickup.",
+      "llama_prompt_retrieved_top-1": "of course! yes, i'm happy to help. the curry prince is located in the east part of town, and their price range falls in the moderate category.",
+      "llama_ft_retrieved_top-1": "no, curry prince does not offer take-out ordering. is there anything else i can help you with?",
+      "mistral_ft_gold": "no, the curry prince does not offer takeout orders. anything else i can do for you?",
+      "mistral_ft_retrieved_top-3": "no, the curry prince does not offer takeout ordering. would you like to make a reservation?",
+      "mistral_prompt_retrieved_top-3": "the curry prince is in the moderate price range and is located in the east part of town. yes, they have validated parking available.",
+      "mistral_ft_none": "no, curry prince does not offer takeout. anything else i can do for you?",
+      "mistral_prompt_none": "yes, curry prince does take takeout orders. is there anything else i can help you with?",
+      "mistral_ft_retrieved_top-1": "no, curry prince does not offer take out ordering. anything else i can do for you?",
+      "mistral_prompt_gold": "user: i need to find a moderately priced restaurant in the east part of town."
+    },
+    "idenitical_candidates": {
+      "user: i need to find a moderately priced restaurant in the east part of town.": [
+        "mistral_prompt_gold",
+        "mistral_prompt_retrieved_top-1"
+      ]
+    },
+    "has_knowledge": true
+  },
+  "test_1762_7": {
+    "sample_id": "test_1762_7",
+    "dialogue_id": 1762,
+    "turn_id": 7,
+    "candidates": {
+      "gt": "pets must be able to fit into a basket that's 85x60x60cm. do you want me to help you with the booking?",
+      "llama_prompt_gold": "of course! i'm happy to help you with that.",
+      "llama_ft_gold": "2 domestic pets, on a short lead or in a basket 85x60x60cm. do you want to book a ticket?",
+      "llama_ft_retrieved_top-3": "2 domestic pets are allowed. they must be kept on a short leash or carried in a basket size 85x60x60cm. do you need anything else?",
+      "llama_prompt_retrieved_top-3": "sure, i'd be happy to help you with that. according to the train company, the size limit for pets on board is 85x60x60cm.",
+      "llama_ft_none": "2 pets are allowed and they must be on a short lead or basket 85x60x60cm. would you like to book a ticket?",
+      "llama_prompt_none": "ah, i see! the maximum size limit for pets on this train is 35cm in length and 20cm in width.",
+      "llama_prompt_retrieved_top-1": "of course! the train company allows you to bring your pets on board, but there are some guidelines to follow.",
+      "llama_ft_retrieved_top-1": "2 domestic pets are allowed, but they must be kept on a short lead or in a basket size 85x60x60cm. do you want me to book that for you?",
+      "mistral_prompt_gold": "2 domestic pets are allowed on board, they must be kept on a short lead or carried in a basket size 85x60x60cm.",
+      "mistral_ft_retrieved_top-3": "2 domestic pets are allowed on a short lead or in a basket sized 85x60x60cm. would you like to book a ticket?",
+      "mistral_prompt_retrieved_top-3": "2 pets are allowed on the train, they must be kept on a short lead or in a basket size 85x60x60cm.",
+      "mistral_ft_none": "85880 x 60160 x 30440 x 17780 x 11940 x 10000 x 10000 x 10000 x 10000 x 10000 x 10000 x 10000 x 10000 x 10000 x 10000 x 10000 x 10",
+      "mistral_prompt_none": "16:45 train on wednesday from cambridge to stevenage allows pets on a short lead or in a basket size carrier.",
+      "mistral_prompt_retrieved_top-1": "2 domestic pets are allowed on the train, they must be kept on a short lead or carried in a basket size 85x60x60cm.",
+      "mistral_ft_gold": "2 domestic pets are allowed, they must be on a short lead or in a basket size 85x60x60cm. would you like to book a ticket?"
+    },
+    "idenitical_candidates": {
+      "2 domestic pets are allowed, they must be on a short lead or in a basket size 85x60x60cm. would you like to book a ticket?": [
+        "mistral_ft_gold",
+        "mistral_ft_retrieved_top-1"
+      ]
+    },
+    "has_knowledge": true
+  },
+  "test_1434_7": {
+    "sample_id": "test_1434_7",
+    "dialogue_id": 1434,
+    "turn_id": 7,
+    "candidates": {
+      "gt": "the hotel does have a private and secured parking for 14 gbp per day. how would you like me to make your booking?",
+      "llama_prompt_gold": "great, thank you for letting me know! yes, the gonville hotel offers private, secured parking on site for gbp 14 per day.",
+      "llama_ft_gold": "14 gbp per day for private parking. do you want to book a room?",
+      "llama_ft_retrieved_top-3": "there is free parking available at the gonville hotel. would you like to book a room?",
+      "llama_prompt_retrieved_top-3": "here is the continuation of the conversation: guest: hello, i'm looking for a hotel in the area that offers free wifi.",
+      "llama_ft_none": "there is free parking at the gonville hotel. would you like to book a room?",
+      "llama_prompt_none": "sure, i'd be happy to help you find a hotel that meets your requirements. based on your search criteria, i have found a hotel that fits your needs.",
+      "llama_prompt_retrieved_top-1": "oh, i see. thank you for letting me know. unfortunately, the gonville hotel does not offer free wifi to its guests.",
+      "llama_ft_retrieved_top-1": "there is free parking available at the gonville hotel. would you like me to book a room for you?",
+      "mistral_prompt_gold": "the gonville hotel offers private, secured parking on site for gbp 14 per day.",
+      "mistral_ft_gold": "14 gbp per day is the cost for private parking at the hotel. would you like to make a reservation?",
+      "mistral_prompt_retrieved_top-3": "gonville hotel has free parking for guests. university arms has paid parking available. the mahal of cambridge has free parking for guests.",
+      "mistral_prompt_none": "gonville hotel offers on-site parking for guests. university arms hotel offers valet parking for guests.",
+      "mistral_prompt_retrieved_top-1": "mahal of cambridge offers free parking for guests. university arms offers free parking for guests. gonville hotel offers paid parking for guests.",
+      "mistral_ft_retrieved_top-1": "24 hour parking is available at the gonville hotel. do you have any other questions?",
+      "mistral_ft_retrieved_top-3": "24 hour parking is available at the gonville hotel. would you like to make a reservation?"
+    },
+    "idenitical_candidates": {
+      "24 hour parking is available at the gonville hotel. would you like to make a reservation?": [
+        "mistral_ft_retrieved_top-3",
+        "mistral_ft_none"
+      ]
+    },
+    "has_knowledge": true
+  },
+  "test_3882_7": {
+    "sample_id": "test_3882_7",
+    "dialogue_id": 3882,
+    "turn_id": 7,
+    "candidates": {
+      "gt": "darrys cookhouse does not have any takeout available. will you be needing a booking?",
+      "llama_prompt_gold": "of course! at darrys cookhouse and wine shop, we do not offer take-out orders.",
+      "llama_ft_gold": "darry's cookhouse and wine shop does not offer takeout. do you need me to book a table?",
+      "llama_ft_retrieved_top-3": "darrys cookhouse and wine shop does not offer takeout orders. is there anything else i can help you with?",
+      "llama_prompt_retrieved_top-3": "sure, here's the continuation of the conversation: guest: hi, i'm looking for a restaurant that serves alcohol, does darrys cookhouse and wine shop have it?",
+      "llama_ft_none": "no, they do not accept takeout orders. would you like to make a reservation?",
+      "llama_prompt_none": "of course! yes, we do accept takeout orders at darry's cookhouse and wine shop.",
+      "llama_prompt_retrieved_top-1": "of course! darrys cookhouse and wine shop does offer takeout orders. we do not serve alcohol, but we have a wide variety of non-alcoholic beverages to complement your meal.",
+      "llama_ft_retrieved_top-1": "darrys cookhouse and wine shop does not offer takeout. do you need anything else?",
+      "mistral_prompt_gold": "user: \"i'm looking for a restaurant called darrys cookhouse and wine shop.\" assistant: \"darrys cookhouse and wine shop is located in the center.",
+      "mistral_ft_retrieved_top-3": "no, darry's cookhouse and wine shop does not offer takeout orders. do you have any other questions?",
+      "mistral_prompt_retrieved_top-3": "sure, i can help you with that. what is the name of the restaurant you are looking for?",
+      "mistral_prompt_none": "user: i'm looking for a restaurant called darrys cookhouse and wine shop. assistant: darrys cookhouse and wine shop is located in the center of the city.",
+      "mistral_prompt_retrieved_top-1": "user: can you tell me if the restaurant serves alcohol? assistant: no, the restaurant does not serve alcohol. user: okay, thank you.",
+      "mistral_ft_retrieved_top-1": "no, they do not offer takeout orders. would you like to make a reservation?",
+      "mistral_ft_gold": "no, they do not offer takeout orders. anything else i can do for you?"
+    },
+    "idenitical_candidates": {
+      "no, they do not offer takeout orders. anything else i can do for you?": [
+        "mistral_ft_gold",
+        "mistral_ft_none"
+      ]
+    },
+    "has_knowledge": true
+  },
+  "test_1435_5": {
+    "sample_id": "test_1435_5",
+    "dialogue_id": 1435,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "i'm sorry but the taxi does not take amex. what time are you interested in leaving at?",
+      "llama_prompt_gold": "great, thank you for letting me know! i'm glad to hear that you accept a variety of payment methods.",
+      "llama_ft_gold": "no, the taxi service does not accept amex. anything else i can do for you?",
+      "llama_ft_retrieved_top-3": "yes, we accept amex. what time would you like to leave?",
+      "llama_prompt_retrieved_top-3": "great, thank you for letting me know! as a taxi service, we accept a variety of payment options to make your ride as convenient as possible.",
+      "llama_ft_none": "yes, you can pay with amex. do you have any other questions?",
+      "llama_prompt_none": "i'm afraid we don't have any taxis available that accept american express at this time.",
+      "llama_prompt_retrieved_top-1": "great, thank you for letting me know! unfortunately, i'm afraid american express is not one of the payment methods we accept in our taxi.",
+      "llama_ft_retrieved_top-1": "yes, they accept all major credit cards. do you have any other questions?",
+      "mistral_ft_gold": "no, they only accept cash, visa, master card and major debit cards. is there anything else i can help you with?",
+      "mistral_ft_retrieved_top-3": "no, they do not accept american express. anything else i can do for you?",
+      "mistral_prompt_retrieved_top-3": "\"hi, i need a taxi to queens' college. can you help me with that?\" \"sure, where are you departing from?\" \"i'm departing from the oak bistro.\"",
+      "mistral_ft_none": "no, amex is not an accepted form of payment. anything else i can do for you?",
+      "mistral_prompt_none": "sure, i can help you with that. there are several taxi companies that accept amex as a form of payment.",
+      "mistral_ft_retrieved_top-1": "yes, they accept amex for payment. anything else i can do for you?",
+      "mistral_prompt_gold": "hi, i need a taxi to queens' college please. what is your departure site? i'm departing from the oak bistro. what time would you like to leave?"
+    },
+    "idenitical_candidates": {
+      "hi, i need a taxi to queens' college please. what is your departure site? i'm departing from the oak bistro. what time would you like to leave?": [
+        "mistral_prompt_gold",
+        "mistral_prompt_retrieved_top-1"
+      ]
+    },
+    "has_knowledge": true
+  },
+  "test_1881_5": {
+    "sample_id": "test_1881_5",
+    "dialogue_id": 1881,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "yes.  if you want to pay with cash, you need to go to the ticket office in your station. anything else i can do for you?",
+      "llama_prompt_gold": "of course! you can definitely pay for your train ticket with cash. if you'd like to pay with cash, please visit the ticket office at the station.",
+      "llama_ft_gold": "yes, you can pay with cash at the ticket office in your station. anything else i can do for you?",
+      "llama_ft_retrieved_top-3": "yes, you can pay with cash at the station. do you need help with anything else?",
+      "llama_prompt_retrieved_top-3": "sure, here is the continuation of the conversation: assistant: good day! welcome to the train station. how can i assist you today? user: hi!",
+      "llama_ft_none": "yes, you can pay with cash at the ticket office. would you like to know more about the train?",
+      "llama_prompt_none": "of course! yes, you can definitely pay for your train ticket with cash at the station. we accept cash only for train tickets.",
+      "llama_prompt_retrieved_top-1": "of course! you can pay for your train ticket with cash at the station. just head to the ticket counter and let them know where you want to go.",
+      "llama_ft_retrieved_top-1": "yes, you can pay with cash at the station. do you need any more information?",
+      "mistral_prompt_gold": "sure, i can help you with that. do you have any specific museum in mind? no, i'm just looking for a museum in town.",
+      "mistral_ft_gold": "yes, you can pay with cash at the ticket office. what else can i help you with?",
+      "mistral_ft_retrieved_top-3": "yes, you can pay for the train with cash. anything else i can do for you?",
+      "mistral_prompt_retrieved_top-3": "\"i'm looking for a museum in town, do you have any recommendations?\" \"sure, we have 23 museums to choose from.",
+      "mistral_ft_none": "yes, you can pay with cash at the station. anything else i can do for you?",
+      "mistral_prompt_none": "yes, you can pay for the train with cash at most stations.",
+      "mistral_prompt_retrieved_top-1": "user: i'm looking for a museum in town. assistant: we have 23 museums to pick from, are there any preferences?",
+      "mistral_ft_retrieved_top-1": "yes, you can pay for the train with cash. you can pay at the ticket machine at the station. anything else i can do for you?"
+    },
+    "idenitical_candidates": {},
+    "has_knowledge": true
+  },
+  "test_3878_5": {
+    "sample_id": "test_3878_5",
+    "dialogue_id": 3878,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "the driver will accept both cash and any major credit card. what else may i help you with today?",
+      "llama_prompt_gold": "great, thank you for letting me know! our taxi drivers accept cash, visa, master card, and major debit cards as payment methods.",
+      "llama_ft_gold": "cash is accepted, as well as visa, master card, and major debit cards. is there anything else i can help you with?",
+      "llama_ft_retrieved_top-3": "10% is the average tip amount. do you have any other questions?",
+      "llama_prompt_retrieved_top-3": "certainly! here's how the conversation might continue: user: does the driver accept cash or will i need a card? assistant: great question!",
+      "llama_ft_none": "yes, the driver accepts cash. anything else i can do for you?",
+      "llama_prompt_none": "great, thank you for letting me know!",
+      "llama_prompt_retrieved_top-1": "great, thank you for letting me know! our taxi drivers accept cash, visa, master card, and major debit cards as forms of payment.",
+      "llama_ft_retrieved_top-1": "yes, the driver accepts cash. do you have any other questions?",
+      "mistral_ft_gold": "cash, visa, master card and major debit cards are all accepted. is there anything else i can help you with?",
+      "mistral_ft_retrieved_top-3": "yes, you can pay with cash or credit card. do you have any other questions?",
+      "mistral_prompt_retrieved_top-3": "10:30 taxi departure from lovell lodge, taxi destination holy trinity church. the driver accepts cash and major credit cards. the charges include taxes, fees, and tolls.",
+      "mistral_ft_none": "yes, the driver accepts cash. you can also pay with your credit card. anything else i can do for you?",
+      "mistral_prompt_none": "10:30 is the departure time, but the driver will arrive at the destination at 10: the driver accepts both cash and card payments.",
+      "mistral_ft_retrieved_top-1": "yes, the driver accepts cash and major credit cards. is there anything else i can help you with?",
+      "mistral_prompt_gold": "10:30 is the departure time from lovell lodge and the destination is holy trinity church. the driver accepts cash, visa, master card and major debit cards."
+    },
+    "idenitical_candidates": {
+      "10:30 is the departure time from lovell lodge and the destination is holy trinity church. the driver accepts cash, visa, master card and major debit cards.": [
+        "mistral_prompt_gold",
+        "mistral_prompt_retrieved_top-1"
+      ]
+    },
+    "has_knowledge": true
+  },
+  "test_2545_7": {
+    "sample_id": "test_2545_7",
+    "dialogue_id": 2545,
+    "turn_id": 7,
+    "candidates": {
+      "gt": "tips are not included in the fee, but are optional and commonly 10% of the fare. i'm happy you have contemplated tipping our hard-working employees.",
+      "llama_prompt_gold": "great, thank you for letting me know!",
+      "llama_ft_gold": "10% of the fare is the common tip. do you need anything else?",
+      "llama_ft_retrieved_top-3": "10% is the standard tip. would you like to make a reservation?",
+      "llama_prompt_retrieved_top-3": "great, the taxi has arrived and is waiting outside the bridge guest house.",
+      "llama_ft_none": "10% is the maximum tip. do you have any other questions?",
+      "llama_prompt_none": "of course! the driver will arrive at the bridge guest house at 07:15 and will take you directly to sidney sussex college.",
+      "llama_prompt_retrieved_top-1": "of course! the taxi will arrive at the bridge guest house by 7:15 am, and the driver will take you directly to sidney sussex college.",
+      "llama_ft_retrieved_top-1": "10% of the fare is the standard tip. is there anything else i can help you with?",
+      "mistral_prompt_gold": "the taxi fare includes taxes, fees, and toll charges. tipping is not required, but it is common to tip about 10% of the fare.",
+      "mistral_ft_gold": "10% is a common tip, but it is not required. do you have any other questions?",
+      "mistral_ft_retrieved_top-3": "10% tip is not included, but you can pay it in cash. is there anything else i can help you with?",
+      "mistral_prompt_retrieved_top-3": "the taxi will arrive at 7: the taxi will depart from the bridge guest house. the taxi will arrive at sidney sussex college.",
+      "mistral_ft_none": "10% is the standard tip, but you can tip more if you'd like. is there anything else i can help you with?",
+      "mistral_prompt_none": "07:15, taxi departure bridge guest house, taxi destination sidney sussex college the tip is included in the fare.",
+      "mistral_prompt_retrieved_top-1": "the taxi fare includes taxes, fees, and toll charges. tipping is not required, but it is common to leave about 10% of the fare as a gesture of appreciation.",
+      "mistral_ft_retrieved_top-1": "10% is the standard tip amount. do you have any other questions?"
+    },
+    "idenitical_candidates": {},
+    "has_knowledge": true
+  },
+  "test_770_5": {
+    "sample_id": "test_770_5",
+    "dialogue_id": 770,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "cambridge artworks is a museum. i found the cambridge belfry hotel. would you like a reservation?",
+      "llama_prompt_gold": "of course! cambridge artworks is a museum located in the east area of cambridge.",
+      "llama_ft_gold": "cambridge artworks is a museum. i have 33 cheap hotels that offer free parking. do you have a preference for area?",
+      "llama_ft_retrieved_top-3": "the cambridge artworks is a museum. it is located at 15 newnham road. it is free to enter. would you like to book a room?",
+      "llama_prompt_retrieved_top-3": "of course! cambridge artworks is a museum located in the east area of the city, featuring a collection of contemporary and modern art.",
+      "llama_ft_none": "4 star hotel with free parking and internet.",
+      "llama_prompt_none": "great, i can definitely help you with that! cambridge artworks is a contemporary art museum located in the east area of cambridge.",
+      "llama_prompt_retrieved_top-1": "of course! cambridge artworks is a museum located in the east area of cambridge, england. it features a collection of contemporary and modern art, including paintings, sculptures, and installations.",
+      "llama_ft_retrieved_top-1": "the cambridge artworks is a museum. it is located in the east area. it is free to enter. would you like to book a room?",
+      "mistral_prompt_gold": "cambridge artworks is a museum located in the east area of the city. it features a variety of exhibits and interactive displays related to art and culture.",
+      "mistral_ft_gold": "13 magdalene street is a museum in the east. i have a few cheap hotels that include free parking. do you have a preference for area?",
+      "mistral_ft_retrieved_top-3": "50 milton road is a museum in the east. i have several hotels that meet your criteria. would you like to book a room?",
+      "mistral_prompt_retrieved_top-3": "cambridge artworks is a museum located in the east area of the city. it features a wide range of art exhibits, including contemporary art, fine art, and sculptures.",
+      "mistral_ft_none": "100% sure it's a museum. would you like more information?",
+      "mistral_prompt_none": "cambridge artworks is a museum that features contemporary art from local artists. it's located in the east area of the city and offers free parking.",
+      "mistral_prompt_retrieved_top-1": "cambridge artworks is a museum that features local and international contemporary art. it is located in the east area of the city and is easily accessible by public transportation.",
+      "mistral_ft_retrieved_top-1": "50 milton road in the east."
+    },
+    "idenitical_candidates": {},
+    "has_knowledge": false
+  },
+  "test_2251_5": {
+    "sample_id": "test_2251_5",
+    "dialogue_id": 2251,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "there is one, shall i book it for you?",
+      "llama_prompt_gold": "i apologize, but i'm a large language model, i don't have access to real-time information about restaurants in a specific area.",
+      "llama_ft_retrieved_top-3": "i have two restaurants that serve portuguese food. one is called the cambridge brew house and the other is called the turtle bay.",
+      "llama_prompt_retrieved_top-3": "i apologize, but i don't have any information on portuguese restaurants in the south. can you please provide me with more details or location?",
+      "llama_prompt_none": "ah, great! i'm glad you're looking for a portuguese restaurant. unfortunately, i don't have any recommendations for portuguese restaurants in the south.",
+      "llama_prompt_retrieved_top-1": "of course! here's my response: \"ah, great! i think i can help you with that.",
+      "llama_ft_retrieved_top-1": "there are no restaurants in the south that serve portuguese food. would you like to try a different type of food?",
+      "mistral_prompt_gold": "sure, i can help you find a portuguese restaurant in the south that serves affordable food.",
+      "mistral_ft_gold": "00792355678 is a portuguese restaurant in the south.",
+      "mistral_ft_retrieved_top-3": "001 is a cheap portuguese restaurant in the south.",
+      "mistral_prompt_retrieved_top-3": "sure, i can help you find a portuguese restaurant in the south that serves affordable food. do you have a specific city or town in mind?",
+      "mistral_ft_none": "1 restaurant matches your request. would you like to book a table?",
+      "mistral_prompt_none": "sure, i can help you find a portuguese restaurant in the south that serves cheap food. do you have a specific city or town in mind?",
+      "mistral_prompt_retrieved_top-1": "sure, i can help you find a portuguese restaurant in the south that serves cheap food.",
+      "mistral_ft_retrieved_top-1": "1 restaurant matches your request. it is called nandos. would you like me to book a table?",
+      "llama_ft_gold": "nandos is a cheap portuguese restaurant in the south. would you like me to book it for you?"
+    },
+    "idenitical_candidates": {
+      "nandos is a cheap portuguese restaurant in the south. would you like me to book it for you?": [
+        "llama_ft_gold",
+        "llama_ft_none"
+      ]
+    },
+    "has_knowledge": false
+  },
+  "test_3058_5": {
+    "sample_id": "test_3058_5",
+    "dialogue_id": 3058,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "i can book you on the tr6745 leaving at 15:50 and arriving at 16:07.",
+      "llama_ft_gold": "16:07 is the latest train. would you like me to book it?",
+      "llama_ft_retrieved_top-3": "tr8476 leaves at 17:11 and arrives at 17: would you like me to book it for you?",
+      "llama_prompt_retrieved_top-3": "understood! here's the information you provided: * you want to leave cambridge as late as possible and still arrive in ely by 17:45 on a wednesday.",
+      "llama_ft_none": "16:50 is the latest train you can take. would you like me to book it for you?",
+      "llama_prompt_retrieved_top-1": "of course! i'd be happy to help you find a train that will get you to ely as close to 17:45 as possible.",
+      "llama_ft_retrieved_top-1": "tr5727 leaves at 16:11 and arrives at 16: would you like to book a ticket?",
+      "mistral_prompt_gold": "train arriveby 17:45: the user wants to arrive at ely by 17: train day wednesday: the user wants to leave from cambridge on wednesday.",
+      "mistral_ft_gold": "17:30 is the earliest train that arrives by 17: would you like me to book that for you?",
+      "mistral_ft_retrieved_top-3": "16:50 will get you there by 17: would you like me to book that for you?",
+      "mistral_prompt_retrieved_top-3": "we have several trains that fit the bill, do you have a time you would like to leave? do you have a specific train in mind?",
+      "mistral_ft_none": "16:08 arrives at 16: would you like me to book it?",
+      "mistral_prompt_none": "train arrival time: 17:45 train departure day: wednesday train departure location: cambridge train arrival location: ely i have found a train that leaves cambridge at 17:30 and arrives in ely at 17: would you like me to book a ticket for you?",
+      "mistral_prompt_retrieved_top-1": "we have several trains that fit the bill, do you have a time you would like to leave?",
+      "mistral_ft_retrieved_top-1": "16:06 is the earliest train that arrives by 17: would you like me to book it for you?",
+      "llama_prompt_gold": "of course! i'd be happy to help you find a train that fits your schedule."
+    },
+    "idenitical_candidates": {
+      "of course! i'd be happy to help you find a train that fits your schedule.": [
+        "llama_prompt_gold",
+        "llama_prompt_none"
+      ]
+    },
+    "has_knowledge": false
+  },
+  "test_3761_5": {
+    "sample_id": "test_3761_5",
+    "dialogue_id": 3761,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "the travel time is 88 minutes. can i help you with anything else?",
+      "llama_prompt_gold": "of course! the tr5015 train from london liverpool street to cambridge is scheduled to arrive at 15:15 on friday. the travel time is approximately 1 hour and 15 minutes.",
+      "llama_ft_gold": "88 minutes is the travel time.",
+      "llama_ft_retrieved_top-3": "14 minutes. would you like me to book a ticket for you?",
+      "llama_prompt_retrieved_top-3": "of course! the train tr5015 is expected to arrive in cambridge at 15:15 on friday. the journey is expected to take around 1 hour and 18 minutes.",
+      "llama_ft_none": "88 minutes.",
+      "llama_prompt_none": "of course! the tr5015 train departs london liverpool street at 08:30 and arrives in cambridge at 15:15 on friday. the travel time is approximately 4 hours and 45 minutes.",
+      "llama_prompt_retrieved_top-1": "of course! the tr5015 train from london liverpool street to cambridge is scheduled to arrive at 15:15 on friday. the travel time is approximately 1 hour and 18 minutes.",
+      "llama_ft_retrieved_top-1": "107 minutes.",
+      "mistral_ft_retrieved_top-3": "52 minutes.",
+      "mistral_prompt_none": "1 hour and 12 minutes. is there anything else i can help you with?",
+      "mistral_prompt_retrieved_top-1": "15:15 is the arrival time for the tr5015 train, which leaves from london liverpool street and arrives in cambridge. the travel time is approximately 1 hour and 12 minutes.",
+      "mistral_ft_retrieved_top-1": "51 minutes.",
+      "mistral_prompt_gold": "1 hour and 12 minutes.",
+      "mistral_ft_gold": "50 minutes."
+    },
+    "idenitical_candidates": {
+      "1 hour and 12 minutes.": [
+        "mistral_prompt_gold",
+        "mistral_prompt_retrieved_top-3"
+      ],
+      "50 minutes.": [
+        "mistral_ft_gold",
+        "mistral_ft_none"
+      ]
+    },
+    "has_knowledge": false
+  },
+  "test_2029_7": {
+    "sample_id": "test_2029_7",
+    "dialogue_id": 2029,
+    "turn_id": 7,
+    "candidates": {
+      "gt": "yes, the data cap is 50mb per day. there is no way to purchase additional data. did you have any other questions?",
+      "llama_prompt_gold": "ah, great! you're booked on the 09:30 train from norwich to cambridge.",
+      "llama_ft_gold": "30mb of free data is available on the train. can i help you with anything else?",
+      "llama_ft_retrieved_top-3": "100 mb of data is available on the train. do you need anything else?",
+      "llama_prompt_retrieved_top-3": "certainly! as a representative of the train company, i can inform you that there is no data limit for wifi usage on our trains.",
+      "llama_ft_none": "200mb of data is available for free. can i help you with anything else?",
+      "llama_prompt_none": "great, thank you for letting me know! as for wifi usage on the train, there is a limit of 100mb of data for free wifi usage on our trains.",
+      "llama_prompt_retrieved_top-1": "oh, great! you're on the 09:30 train from norwich to cambridge. as far as i know, there is no data limit for wifi usage on our trains.",
+      "llama_ft_retrieved_top-1": "there is no data limit for wifi usage on the train. do you need anything else?",
+      "mistral_ft_gold": "100 mb is the data limit for wifi usage on the train. is there anything else i can help you with?",
+      "mistral_ft_retrieved_top-3": "5 gb per day is the data limit. anything else i can do for you?",
+      "mistral_ft_none": "8gb of data is available for wifi usage. is there anything else i can help you with?",
+      "mistral_prompt_none": "there is no data limit for wifi usage on the train. however, it is subject to availability and may be slower or interrupted at times.",
+      "mistral_prompt_retrieved_top-1": "train bookpeople 1: i'm looking for a train to cambridge leaving after 09:30, can you help?",
+      "mistral_ft_retrieved_top-1": "there is no data limit for wifi usage on the train. is there anything else i can help you with?",
+      "mistral_prompt_gold": "train booking: * user: i'm looking for a train to cambridge leaving after 09:30, can you help? * assistant: hello, we have many trains going to cambridge."
+    },
+    "idenitical_candidates": {
+      "train booking: * user: i'm looking for a train to cambridge leaving after 09:30, can you help? * assistant: hello, we have many trains going to cambridge.": [
+        "mistral_prompt_gold",
+        "mistral_prompt_retrieved_top-3"
+      ]
+    },
+    "has_knowledge": false
+  },
+  "test_4059_5": {
+    "sample_id": "test_4059_5",
+    "dialogue_id": 4059,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "yes, the alexander offers those. el shaddai, gonville hotel, or the university arms hotel all do as well, if those sound more appealing. can i book you a room?",
+      "llama_prompt_gold": "great! the alexander bed and breakfast is a lovely option located in the heart of the city, just a short walk from many popular attractions.",
+      "llama_ft_gold": "4 hotels and 1 guesthouse match your criteria. do you have a preference for star rating?",
+      "llama_ft_retrieved_top-3": "4 stars, moderate price, and it's located at 109-111 newmarket road. would you like me to book it for you?",
+      "llama_prompt_retrieved_top-3": "of course! the alexander bed and breakfast is a great choice. it's located in the heart of the city, just a short walk from all the major attractions.",
+      "llama_ft_none": "4 star guesthouse with free wifi and parking.",
+      "llama_prompt_none": "great! the alexander bed and breakfast is a fantastic choice. they offer free wifi and parking, and they're located right in the heart of the city.",
+      "llama_prompt_retrieved_top-1": "great! the alexander bed and breakfast is located in the heart of the city, within walking distance to many popular attractions.",
+      "llama_ft_retrieved_top-1": "i have 4 options for you. do you have a price range in mind?",
+      "mistral_prompt_gold": "the alexander bed and breakfast offers free wifi and free parking in the center of town.",
+      "mistral_ft_gold": "4 choices, all with free wifi and parking.",
+      "mistral_ft_retrieved_top-3": "4 choices are available. would you like me to book one for you?",
+      "mistral_prompt_retrieved_top-3": "the alexander bed and breakfast the parkview hotel the greenwood inn the city centre hotel all of these hotels offer free wifi and free parking in the center of town.",
+      "mistral_ft_none": "4 choices meet your criteria. would you like me to book one for you?",
+      "mistral_prompt_none": "the alexander bed and breakfast offers free wifi and free parking. the city lodge hotel offers free wifi and free parking.",
+      "mistral_prompt_retrieved_top-1": "the alexander bed and breakfast the green hotel the park inn hotel the bluebird hotel all of these hotels offer free wifi and free parking in the center of town.",
+      "mistral_ft_retrieved_top-1": "4 choices are available. do you have a price range?"
+    },
+    "idenitical_candidates": {},
+    "has_knowledge": false
+  },
+  "test_950_7": {
+    "sample_id": "test_950_7",
+    "dialogue_id": 950,
+    "turn_id": 7,
+    "candidates": {
+      "gt": "unfortunately, no, there is no pool. are you still interested in booking a room?",
+      "llama_prompt_gold": "i apologize, but worth house does not have a pool. as a virtual assistant, i don't have access to detailed information about every hotel's amenities, including their pool facilities.",
+      "llama_ft_gold": "there is no pool at the worth house. would you like to book a room?",
+      "llama_prompt_retrieved_top-3": "i apologize, but i don't have access to information about a hotel called \"worth house\" in cambridge.",
+      "llama_ft_none": "there is no pool at worth house. do you have any other questions?",
+      "llama_prompt_none": "no, i apologize, worth house does not have a pool.",
+      "llama_prompt_retrieved_top-1": "i apologize, but worth house does not have a pool. they are a budget-friendly guesthouse with a 4-star rating, but they do not offer a pool.",
+      "mistral_ft_gold": "4-star rated, but no pool. would you like me to book it for you?",
+      "mistral_ft_retrieved_top-3": "i'm sorry, worth house does not have a pool. would you like to book a room?",
+      "mistral_prompt_retrieved_top-3": "user: can you tell me about the vue cinema? assistant: sure, it's a cinema located in the city centre. user: and what about worth house?",
+      "mistral_ft_none": "2 star hotel worth house does not have a pool. anything else i can do for you?",
+      "mistral_prompt_none": "\"sure, it's a cinema.\" \"i don't have access to their entrance fee, but their phone number is their address is the grafton centre, east road, cb11ps.",
+      "mistral_ft_retrieved_top-1": "2-star rated worth house does not have a pool. would you like to make a reservation?",
+      "llama_ft_retrieved_top-3": "no, worth house does not have a pool. would you like to book a room?",
+      "mistral_prompt_gold": "user: can you give me the address to a museum in cambridge? assistant: are you looking for one in a particular area?"
+    },
+    "idenitical_candidates": {
+      "no, worth house does not have a pool. would you like to book a room?": [
+        "llama_ft_retrieved_top-3",
+        "llama_ft_retrieved_top-1"
+      ],
+      "user: can you give me the address to a museum in cambridge? assistant: are you looking for one in a particular area?": [
+        "mistral_prompt_gold",
+        "mistral_prompt_retrieved_top-1"
+      ]
+    },
+    "has_knowledge": false
+  },
+  "test_3809_7": {
+    "sample_id": "test_3809_7",
+    "dialogue_id": 3809,
+    "turn_id": 7,
+    "candidates": {
+      "gt": "yes, the city centre north b and b is a zero star guest house in the north, with free parking and free wifi. would you like it booked?",
+      "llama_prompt_gold": "i apologize, but i cannot find a guesthouse with 0 stars in the north area. however, i can suggest some other options that meet your criteria.",
+      "llama_ft_gold": "11 guesthouses match your criteria. do you have a preference on price range?",
+      "llama_prompt_retrieved_top-3": "i apologize, but i cannot find any information on a guesthouse with 0 stars located in the north area.",
+      "llama_ft_none": "0 star guesthouses in the north are the city centre north b&b and the worth house. would you like to book one of these?",
+      "llama_prompt_none": "i apologize, but i'm afraid i can't find a guesthouse with 0 stars located in the north area of the city.",
+      "llama_prompt_retrieved_top-1": "i apologize, but i can't find any information on a guesthouse with 0 stars in the north area.",
+      "mistral_ft_gold": "3 guesthouses match your criteria. the acorn guest house is 0 stars and includes free parking and internet. would you like me to book it for you?",
+      "mistral_ft_retrieved_top-3": "1 guesthouse in the north, the archway house, would you like me to book it for you?",
+      "mistral_ft_none": "2 guesthouses meet your criteria. would you like to book one of them?",
+      "mistral_prompt_none": "i have found a guesthouse in the north that meets your criteria. the guesthouse is called \"the old barn\" and it has free parking and is rated 0 stars.",
+      "mistral_prompt_retrieved_top-1": "\"can you help me find a guesthouse in the north with free parking and zero stars?\"",
+      "mistral_ft_retrieved_top-1": "2 guesthouses meet your criteria. one is in the cheap price range and the other is in the moderate price range.",
+      "llama_ft_retrieved_top-3": "i'm sorry, there are no guesthouses in the north. would you like to try a different area?",
+      "mistral_prompt_gold": "i'm sorry, i can't find a guesthouse that meets those specifications. is there anything else i can help you with?"
+    },
+    "idenitical_candidates": {
+      "i'm sorry, there are no guesthouses in the north. would you like to try a different area?": [
+        "llama_ft_retrieved_top-3",
+        "llama_ft_retrieved_top-1"
+      ],
+      "i'm sorry, i can't find a guesthouse that meets those specifications. is there anything else i can help you with?": [
+        "mistral_prompt_gold",
+        "mistral_prompt_retrieved_top-3"
+      ]
+    },
+    "has_knowledge": false
+  },
+  "test_2752_5": {
+    "sample_id": "test_2752_5",
+    "dialogue_id": 2752,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "your trainid tr9733 has been booked to leave at 12:34. than you.",
+      "llama_prompt_gold": "great, i'm glad you're interested in booking a train ticket!",
+      "llama_ft_gold": "1 ticket booked. your reference number is the total fee is 2 gbp payable at the station.",
+      "llama_ft_retrieved_top-3": "80 gbp, your reference number is 77v965kc.",
+      "llama_prompt_retrieved_top-3": "great! i'm happy to help you book a train ticket. here is the information you requested: reference number: #001 the train will arrive in peterborough at 21:30 on sunday.",
+      "llama_ft_none": "1 ticket booked. your reference number is 14z16z6a.",
+      "llama_prompt_none": "\"great! i've booked you on train #09:00 from cambridge to peterborough, departing on sunday at 9:00 am.",
+      "llama_prompt_retrieved_top-1": "great! i'm happy to help you book a train ticket. can you please provide me with your contact information so i can issue a reference number?",
+      "llama_ft_retrieved_top-1": "your reference number is 6lz3j8jr.",
+      "mistral_prompt_gold": "train arrive by 21:30 train book people 1 train day sunday train departure cambridge train destination peterborough the reference number for your booking is is there anything else i can help you with?",
+      "mistral_ft_gold": "1 ticket has been booked for you. your reference number is 76jzyq",
+      "mistral_ft_retrieved_top-3": "1 ticket has been booked for you. your reference number is 3j8jjjjj.",
+      "mistral_prompt_retrieved_top-3": "1 train ticket for sunday, departing from cambridge and arriving at peterborough at 21:24 has been booked for you.",
+      "mistral_ft_none": "1 ticket has been booked for you. the reference number is 5j",
+      "mistral_prompt_none": "train arrive by 21:30 train book people 1 train day sunday train departure cambridge train destination peterborough the reference number for your booking is",
+      "mistral_prompt_retrieved_top-1": "train arrive by 21:30 train book people 1 train day sunday train departure cambridge train destination peterborough i have booked a seat for you on the train departing from cambridge at 21:00 and arriving at peterborough at 21: the reference number for your booking is is there anything else i can help you with?",
+      "mistral_ft_retrieved_top-1": "10000057 is your reference number."
+    },
+    "idenitical_candidates": {},
+    "has_knowledge": false
+  },
+  "test_3945_7": {
+    "sample_id": "test_3945_7",
+    "dialogue_id": 3945,
+    "turn_id": 7,
+    "candidates": {
+      "gt": "tr1965 arrives at 18:52. would this work?",
+      "llama_prompt_gold": "of course, i'd be happy to help! based on your requirements, i suggest trying \"the ritz\" restaurant located in the heart of the city.",
+      "llama_ft_gold": "5 trains match your criteria. the first leaves at 5:24 and the last at 18: would you like me to book one for you?",
+      "llama_ft_retrieved_top-3": "i have 12 trains that match your criteria. what time would you like to leave?",
+      "llama_prompt_retrieved_top-3": "of course, i'd be happy to help! based on your requirements, i recommend trying \"the michelin star\" restaurant located in the heart of the city.",
+      "llama_ft_none": "10:24 will arrive at 10: would you like me to book it?",
+      "llama_ft_retrieved_top-1": "i have 10 trains that match your criteria. would you like me to book one for you?",
+      "mistral_prompt_gold": "sure, i can help you with that. there are several trains that depart from stansted airport and arrive at the center of town by 19:30 on tuesday.",
+      "mistral_ft_gold": "10 trains meet your criteria. what time would you like to leave?",
+      "mistral_ft_retrieved_top-3": "11:35 or 13:35?",
+      "mistral_prompt_retrieved_top-3": "sure, i can help you with that. what is your budget for the restaurant?",
+      "mistral_ft_none": "10 trains meet your criteria. would you like to narrow it down by time or destination?",
+      "mistral_prompt_none": "there are 33 restaurants that fit your criteria. perhaps we can narrow it down. are you interested in a particular cuisine? yes, bedouin.",
+      "mistral_prompt_retrieved_top-1": "i understand you are looking for an expensive restaurant in the center of town. is there a specific cuisine you are interested in?",
+      "mistral_ft_retrieved_top-1": "10 trains leave from stansted airport on tuesday. what time would you like to leave?",
+      "llama_prompt_none": "great, thank you for letting me know! based on your preferences, i would recommend the \"bedouin\" restaurant located in the center of town."
+    },
+    "idenitical_candidates": {
+      "great, thank you for letting me know! based on your preferences, i would recommend the \"bedouin\" restaurant located in the center of town.": [
+        "llama_prompt_none",
+        "llama_prompt_retrieved_top-1"
+      ]
+    },
+    "has_knowledge": false
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "dial_861_turn_5": {
+    "sample_id": "dial_861_turn_5",
+    "dialogue_id": 861,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "what did you do ?",
+      "llama_ft_none": "2002 , what did you do ?",
+      "llama_prompt_none": "oh my goodness, that's really creepy. did you try to ignore him or confront him? it's important to be aware of your surroundings and trust your instincts.",
+      "mistral_ft_none": ".......",
+      "mistral_prompt_none": "it's important to stay calm and not let fear take over. if you feel comfortable, try to get a good look at the person."
+    },
+    "identical_candidates": {}
+  },
+  "dial_690_turn_5": {
+    "sample_id": "dial_690_turn_5",
+    "dialogue_id": 690,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "that sounds bad ! i'm really worried , what should i do ? maybe i should go home and stay in the rest of the day .",
+      "llama_ft_none": "ick ! i don't like that .",
+      "llama_prompt_none": "oh no, that doesn't sound good at all! *nervous laugh* i hope that's not true... *glances around nervously* do you think i should be careful about something specific? *hopes for the best*",
+      "mistral_ft_none": "ouch ! i just got a bad luck !",
+      "mistral_prompt_none": "that's not good to hear . what about cancer ?"
+    },
+    "identical_candidates": {}
+  },
+  "dial_749_turn_5": {
+    "sample_id": "dial_749_turn_5",
+    "dialogue_id": 749,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "well , last week i invited her over to dinner . my husband and i had no problem with the food , but if you listened to her , then it would seem like i fed her old meat and rotten vegetables . there's just nothing can please her .",
+      "llama_ft_none": "2 weeks ago , i made a cake for my husband's birthday .",
+      "llama_prompt_none": "oh, she'll say things like \"why did you clean the kitchen that way? it's not the way i would have done it.\" or \"you're not cooking dinner tonight? what are you going to feed the kids?\"",
+      "mistral_ft_none": "20 minutes after i got home , she was already asking me why i hadn't cleaned the kitchen yet .",
+      "mistral_prompt_none": "i cook dinner for my family and she says the meat is undercooked. i clean the house and she says the windows are still dirty."
+    },
+    "identical_candidates": {}
+  },
+  "dial_804_turn_5": {
+    "sample_id": "dial_804_turn_5",
+    "dialogue_id": 804,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "oh , they have ? i didn't know . i haven't seen tom lately .",
+      "llama_ft_none": "2000 dollars ?",
+      "llama_prompt_none": "ah, i see! congratulations to tom and bill smith on their new home and their new jobs! that's great to hear. i'm sure their housewarming party will be a blast. have you rsvp'd yet?",
+      "mistral_ft_none": "have they ?",
+      "mistral_prompt_none": "okay, i understand. is there anything else you need help with ?"
+    },
+    "identical_candidates": {}
+  },
+  "dial_314_turn_5": {
+    "sample_id": "dial_314_turn_5",
+    "dialogue_id": 314,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "that's wonderful ! i like swimming .",
+      "llama_ft_none": "10 a . m . ? it's too early .",
+      "llama_prompt_none": "wow, that's great! a swimming pool and massage rooms? that's perfect for someone who wants to relax and unwind after a workout. can you tell me more about the massage rooms?",
+      "mistral_ft_none": "11 p . m . ? what time does the gym open ?",
+      "mistral_prompt_none": "10 a . m . to 11 p . m ."
+    },
+    "identical_candidates": {}
+  },
+  "dial_793_turn_5": {
+    "sample_id": "dial_793_turn_5",
+    "dialogue_id": 793,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "i \u2019 ve been to qingdao before , so i \u2019 ll choose dalian . i've heard that the environment there is very good .",
+      "llama_ft_none": "2000 yuan is not enough .",
+      "llama_prompt_none": "ah, qingdao and dalian are both great choices!",
+      "mistral_ft_none": "100 % .",
+      "mistral_prompt_none": "qingdao: it is a beautiful city located in the eastern part of china. it is known for its beautiful beaches, such as the badaling beach, the yalong bay, and the qingdao bay."
+    },
+    "identical_candidates": {}
+  },
+  "dial_377_turn_5": {
+    "sample_id": "dial_377_turn_5",
+    "dialogue_id": 377,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "wait a minute ! it also says that the christ re-deemer statue in brazil and the colosseum in rome are wonders . i would love to go to italy and see the colosseum , stand in the middle like a gladiator !",
+      "llama_ft_none": "6 out of 7 are historical sites . i guess that says something about the human race . we're really good at building stuff but not so good at preserving it .",
+      "llama_prompt_none": "oh, wow, that's great! yes, petra in jordan is an incredible archaeological site, known for its intricate rock-cut architecture and stunning natural beauty.",
+      "mistral_ft_none": "? the pyramid in mexico ? i thought that was just a legend !",
+      "mistral_prompt_none": "qu bueno ! i've been to machu picchu too . it's a fascinating place , full of history and mystery ."
+    },
+    "identical_candidates": {}
+  },
+  "dial_110_turn_5": {
+    "sample_id": "dial_110_turn_5",
+    "dialogue_id": 110,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "could you tell me what the exchange rate for usd is today ?",
+      "llama_ft_none": "300 us dollars .",
+      "llama_prompt_none": "that's helpful to know. how much commission do you charge for exchanging currency? and do you have any limits on the amount of currency that can be exchanged per transaction?",
+      "mistral_ft_none": "100 dollars , please .",
+      "mistral_prompt_none": "usd (united states dollar) japanese yen (jpy) hk dollar (hkd) do you have any other services related to foreign exchange ?"
+    },
+    "identical_candidates": {}
+  },
+  "dial_973_turn_5": {
+    "sample_id": "dial_973_turn_5",
+    "dialogue_id": 973,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "maybe you're right , but i'll take my sneakers and jeans any day !",
+      "llama_ft_none": "200 years ago , people dressed differently . they didn't have the same choice of clothes that we have today .",
+      "llama_prompt_none": "i understand your point, but i still don't think that dressing formally is the only way to be professional.",
+      "mistral_ft_none": "....",
+      "mistral_prompt_none": "i understand your point , but i still believe that people should dress in a way that they feel comfortable and confident ."
+    },
+    "identical_candidates": {}
+  },
+  "dial_157_turn_5": {
+    "sample_id": "dial_157_turn_5",
+    "dialogue_id": 157,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "here you are .",
+      "llama_ft_none": "100 , please .",
+      "llama_prompt_none": "of course! i'd be happy to provide you with a pamphlet that outlines the details of the trip, including the itinerary, accommodations, and other important information. may i have your name and contact information, please?",
+      "mistral_ft_none": "100 yuan for each .",
+      "mistral_prompt_none": "day 1: arrival in los angeles * arrive at los angeles international airport and check into your hotel. * visit the iconic hollywood walk of fame and take a stroll down the famous street."
+    },
+    "identical_candidates": {}
+  },
+  "dial_860_turn_5": {
+    "sample_id": "dial_860_turn_5",
+    "dialogue_id": 860,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "basically , i think tim is threatened by me . i'm doing a better job than he is so he's trying to sabotage my career !",
+      "llama_ft_none": "tim is always trying to take credit for my ideas . he's always trying to make me look like a fool in front of the other employees .",
+      "llama_prompt_none": "oh, you know, the usual. tim always trying to one-up me in meetings, taking credit for my ideas, and not giving me the respect i deserve.",
+      "mistral_ft_none": "10 years ago , tim was just a low-level employee like me . now he's a manager , and he treats everyone else like they're his subordinates !",
+      "mistral_prompt_none": "tim always wants to be the boss and he doesn't listen to my ideas. he's always trying to take credit for my work."
+    },
+    "identical_candidates": {}
+  },
+  "dial_720_turn_5": {
+    "sample_id": "dial_720_turn_5",
+    "dialogue_id": 720,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "i hope so .",
+      "llama_ft_none": "1 hope so .",
+      "llama_prompt_none": "*sigh* i know, but it's just hard to see him go. we've been through so much together, and now he's leaving for good. i'm going to miss him so much.",
+      "mistral_ft_none": ".......",
+      "mistral_prompt_none": "1"
+    },
+    "identical_candidates": {}
+  },
+  "dial_917_turn_5": {
+    "sample_id": "dial_917_turn_5",
+    "dialogue_id": 917,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "no , but i'll be able to tomorrow .",
+      "llama_ft_none": "100 % .",
+      "llama_prompt_none": "of course, i'd be happy to help you translate those sentences into german! please go ahead and provide the sentences you'd like me to translate, and i'll do my best to assist you.",
+      "mistral_ft_none": "i am a student . i am a student .",
+      "mistral_prompt_none": "\"how many languages can you speak ?\" - \"wie viele sprachen knnen sie sprechen ?\" \"i can speak french and german .\" - \"ich kann franzsisch und deutsch sprechen.\""
+    },
+    "identical_candidates": {}
+  },
+  "dial_489_turn_5": {
+    "sample_id": "dial_489_turn_5",
+    "dialogue_id": 489,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "it's my rock bottom price . take it or leave it .",
+      "llama_ft_none": "70 ? no , sir .",
+      "llama_prompt_none": "ah , i see . well , i can offer you a special deal for $70 with a scarf. that's a great price for a high-quality trench coat like this one.",
+      "mistral_ft_none": "50 and a scarf .",
+      "mistral_prompt_none": "70 dollars with a scarf is a fair price ."
+    },
+    "identical_candidates": {}
+  },
+  "dial_757_turn_5": {
+    "sample_id": "dial_757_turn_5",
+    "dialogue_id": 757,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "the computer center is on the first floor of the library .",
+      "llama_ft_none": "201 building .",
+      "llama_prompt_none": "ah, a fellow tech-savvy individual! *adjusts glasses* the computer center is located in the old building on the left side of the campus, just past the library.",
+      "mistral_ft_none": "2nd floor of the green building .",
+      "mistral_prompt_none": "1st floor of the building with the big clock tower , it's right next to the library."
+    },
+    "identical_candidates": {}
+  },
+  "dial_282_turn_5": {
+    "sample_id": "dial_282_turn_5",
+    "dialogue_id": 282,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "medium one will be perfect , thank you",
+      "llama_ft_none": "16 inches .",
+      "llama_prompt_none": "oh, wow, that's a great deal! i'll take two medium pizzas, please. *excitedly* so, what's the deal with the two for one pizzas? is it a limited time offer or something? *curious*",
+      "mistral_ft_none": "12 inches , please .",
+      "mistral_prompt_none": "12 inch pizza would be great ."
+    },
+    "identical_candidates": {}
+  },
+  "dial_269_turn_5": {
+    "sample_id": "dial_269_turn_5",
+    "dialogue_id": 269,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "i don't know . i don't know too much about flowers . can you recommend something ?",
+      "llama_ft_none": "2 dozen red roses .",
+      "llama_prompt_none": "oh, that's a great question! i was thinking maybe a bouquet of red roses. they're her favorite. you know, it's our anniversary coming up and i want to surprise her with something special.",
+      "mistral_ft_none": "10 roses , please .",
+      "mistral_prompt_none": "i would like to order a dozen red roses ."
+    },
+    "identical_candidates": {}
+  },
+  "dial_223_turn_5": {
+    "sample_id": "dial_223_turn_5",
+    "dialogue_id": 223,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "exactly ! i searched on the web and found a couple of hmo \u2019 s with low co-pays and good coverage . the deductibles are low , too .",
+      "llama_ft_none": "100 % . i m glad you agree .",
+      "llama_prompt_none": "exactly! it's important to think about our health and well-being, especially as we get older. and it's not just about us, but also about our families and loved ones.",
+      "mistral_ft_none": "k . i m glad you agree . i m going to call the insurance company tomorrow and get some more information .",
+      "mistral_prompt_none": "yeah , its definitely something to consider . you want to make sure that you have good coverage in case of any unexpected medical expenses ."
+    },
+    "identical_candidates": {}
+  },
+  "dial_831_turn_5": {
+    "sample_id": "dial_831_turn_5",
+    "dialogue_id": 831,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "that's fine . i'll be waiting for you .",
+      "llama_ft_none": "6 thirty pm ?",
+      "llama_prompt_none": "great! i'm looking forward to it. what hotel are you planning to pick me up from? and is there anything specific you would like to eat for dinner?",
+      "mistral_ft_none": "6 thirty ?",
+      "mistral_prompt_none": "6:30 pm is perfect for me ."
+    },
+    "identical_candidates": {}
+  },
+  "dial_612_turn_5": {
+    "sample_id": "dial_612_turn_5",
+    "dialogue_id": 612,
+    "turn_id": 5,
+    "candidates": {
+      "gt": "this is an especially famous one . it says \" may the passing days bring you health and longevity . may this season of renewal find you basked in riches . \"",
+      "llama_ft_none": ", .",
+      "llama_prompt_none": "the chinese couplet i'm writing today is a traditional form of poetry that consists of two lines, with a syllable count of 5-7-5-7- here's what it says: \"in the moonlight, my heart doth sing a sweet melody, with a peaceful ring the stars up above, they twinkle and wink as i think of thee, my heart doth blink in the moonlight, my love doth shine\" i hope you enjoy it!",
+      "mistral_ft_none": "the moon is full and the night is clear . i love you .",
+      "mistral_prompt_none": "spring blossoms begin to wilt . this couplet is often used to describe the transience of beauty and the inevitability of change ."
+    },
+    "identical_candidates": {}
+  }
+}
