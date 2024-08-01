@@ -117,7 +117,7 @@ python ./utils/narrative_qa_prepare.py
 ```
 
 ### Download Fine-Tuned Models and Results
-You can access the fine-tuned models and the results obtained by downloading the additional resources attached to the release.
+You can access the fine-tuned models and the results obtained by downloading the additional resources attached to the [release](https://github.com/sislab-unitn/Fine-Tune-or-Rag/releases/tag/v1.0).
 
 You can place the `*.tar.xz` in the `output` folder and unzip them using the following command:
 
