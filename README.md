@@ -251,10 +251,23 @@ This work is licensed under a [MIT License](https://opensource.org/licenses/MIT)
 
 ## How To Cite
 ```
-@article{alghisi2024should,
-  title={Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue},
-  author={Alghisi, Simone and Rizzoli, Massimo and Roccabruna, Gabriel and Mousavi, Seyed Mahed and Riccardi, Giuseppe},
-  journal={arXiv preprint arXiv:2406.06399},
-  year={2024}
+@inproceedings{alghisi-etal-2024-fine-tune,
+    title = "Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue",
+    author = "Alghisi, Simone  and
+      Rizzoli, Massimo  and
+      Roccabruna, Gabriel  and
+      Mousavi, Seyed Mahed  and
+      Riccardi, Giuseppe",
+    editor = "Mahamood, Saad  and
+      Minh, Nguyen Le  and
+      Ippolito, Daphne",
+    booktitle = "Proceedings of the 17th International Natural Language Generation Conference",
+    month = sep,
+    year = "2024",
+    address = "Tokyo, Japan",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.inlg-main.15/",
+    pages = "180--197",
+    abstract = "We study the limitations of Large Language Models (LLMs) for the task of response generation in human-machine dialogue. Several techniques have been proposed in the literature for different dialogue types (e.g., Open-Domain). However, the evaluations of these techniques have been limited in terms of base LLMs, dialogue types and evaluation metrics. In this work, we extensively analyze different LLM adaptation techniques when applied to different dialogue types. We have selected two base LLMs, Llama-2 and Mistral, and four dialogue types Open-Domain, Knowledge-Grounded, Task-Oriented, and Question Answering. We evaluate the performance of in-context learning and fine-tuning techniques across datasets selected for each dialogue type. We assess the impact of incorporating external knowledge to ground the generation in both scenarios of Retrieval-Augmented Generation (RAG) and gold knowledge. We adopt consistent evaluation and explainability criteria for automatic metrics and human evaluation protocols. Our analysis shows that there is no universal best-technique for adapting large language models as the efficacy of each technique depends on both the base LLM and the specific type of dialogue. Last but not least, the assessment of the best adaptation technique should include human evaluation to avoid false expectations and outcomes derived from automatic metrics."
 }
 ```
